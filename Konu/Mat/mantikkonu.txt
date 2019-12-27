@@ -1,0 +1,169 @@
+MANTIK
+
+Önermeler
+
+Doðru veya yanlýþ mutlak olan ifadelere “Önerme” denir. Önermeler genel olarak harflerle (p, q, r, s.. vb.) gösterilirler. Önermeler, emir, ünlem ve soru cümleleri ile karýþtýrýlmamalýdýr. Peki bu önermeler nerelerde kullanýlýr? Önermeler birçok yerde karþýmýza çýkabilir örnek vermek gerekirse; bilgisayarlar üzerinde Input/Output  birimlerinde, bilgisayarlarýn depolama birimlerinde (Binary Logic) kullanýlýr. Önermelere geçmeden önce, Ünlem, soru ve emir cümlelerini önermeler ile karýþtýrmamak gerekir. Örneðin;
+
+“Türkiye’nin yüz ölçümü 783,562 km²’dir.”
+
+Bu cümle bir önermedir çünkü doðru veya yanlýþ bir kesin hüküm bildirmektedir.
+
+ 
+
+“Bugün ne yapacaksýn?”
+
+Bu cümle ise bir soru cümlesidir, soru cümleleri kesinlikle bir önerme deðildir, kesin bir hüküm içermez.
+
+ 
+
+“Bana su getir!”
+
+Bu cümle ise bir emir cümlesidir, emir cümleleri önermeler içine dahil edilmez.
+
+ 
+
+“Ne kadar güzel!”
+
+Bu cümle de bir ünlem cümlesidir, doðrulu veya yanlýþlýðý bilinemez, kesin bir hüküm içermediðinden önermeler içine dahil edilemez.
+
+Önermeler doðruluk deðerlerinden oluþurlar, bir önerme iki kesinlikten birini içerebilir ya kesinlikle, doðrudur ya kesinlikle yanlýþtýr. Doðru olan önermeler “1” deðeri ile veya “(D)”, yanlýþ olan önermeler ise “0” ile veya “(Y)” ile ifade edilir.
+
+ 
+
+Ýki önermenin deðeri doðru yani “1” ise, bu önermeler birbirine denktir, denk olan bu önermeler “?” iþareti ile gösterilir. Örneðin, p önermesi “Türkiye’nin baþkenti Ankara’dýr.”, q önermesi ise “Dünya geoit bir þekle sahiptir.” iki önerme de doðrudur, iki önermenin deðeri de “1”dir.
+
+p: Türkiye’nin baþkenti Ankara’dýr.
+
+q: Dünya geoit bir þekle sahiptir.
+
+dolayýsýyla bu önermeler birbirine denktir. Yani p ? q olarak gösterilebilir.
+
+ 
+
+Bir önermenin doðrulunun ya da yanlýþlýðýnýn deðiþtirilmesine “Önermenin Olumsuzu/Deðili” denir ve “týrnak (‘)” iþareti ile gösterilir. Örneðin p: 100+2 = 102 olsun önermenin deðeri 1’dir. Ancak bu önermenin deðili p’ olarak gösterilir ve deðili 0’dýr.
+
+Yani, p ? 1 ise, p’ ? 0 olur.
+
+Ayrýca, n tane önermenin 2n  tane doðruluk deðeri vardýr.
+
+ 
+
+Birden fazla önermenin çeþitli baðlaçlarla birbirlerine baðlanmasýyla oluþan önermelere “Bileþik Önermeler” denir. Bu baðlaçlarý sýrasýyla görelim;
+
+ 
+
+1) Ve Baðlacý: 
+p ve q iki önerme olsun, bu iki önermenin doðruluk deðerinin 1 olduðu durumda 1, 
+bir tanesinin veya her ikisinin de yanlýþ olmasý durumunda 0 döndüren baðlaçtýr. “?” ile gösterilir. 
+Ve baðlacýnýn doðruluk tablosu aþaðýdaki gibidir..
+
+P                        q			p^q
+1			 1			 1
+1  			 0   			 0
+0			 1			 0
+0			 0			 0
+
+
+2) Veya Baðlacý: p ve q iki önerme olsun, bu iki önermenin doðruluk deðerinin yalnýz bir tanesinin 1 olmasý, 
+1 deðeri döndürmesi için yeterlidir. “v” ile gösterilir. 
+Veya baðlacýnýn doðruluk tablosu aþaðýdadýr..
+
+P                        q			p veya q
+1			 1			 1
+1  			 0   			 1	
+0			 1			 1
+0			 0			 0
+
+
+Ve / Veya Baðlacýndaki Özellikler:
+
+a) Tek Kuvvet Özelliði: Önermelerinin birbirlerine göre ve/veya baðlacýndaki durumlarý birbirlerine denktir.
+p v p ? p
+p ? p ? p
+
+b) Deðiþme Özelliði: Farklý iki önermenin ve/veya baðlacýndaki konumlarý yer deðiþtirebilir.
+p v q ? q v p
+p ? q ? q ? p
+
+c) Birleþme Özelliði: Farklý önermelerin parantez içinde veya dýþýnda birleþme durumudur.
+p v (r v q) ? (r v p) v q
+p ? (r ? q) ? (r ? p) ? q
+
+d) Daðýlma Özelliði: Ve/Veya baðlaçlý bileþik önermelerinin birbirlerine daðýlma durumudur.
+p ? (q v r) ? (p ? q) v (p ? r)
+p v (q ? r) ? (p v q) ? (p v r)
+
+Ayrýca,
+p v 0 ? p,    p v 1 ? 1,    p v p’ ? 1
+p ? 0 ? 0,    p ? 1 ? p,   p ? p’ ? 0
+
+ 
+
+Bileþik Önermelerde Olumsuzluk (Deðili) Kavramý:
+De Morgan Kuralý: Bileþik önermelerinin tümleyen alma durumuna “De Morgan Kuralý” denir.
+ Kuralý De Morgan adlý Ýngiliz bir matematikçi bulduðundan “De Morgan Kuralý” adý verilmiþtir. 
+
+3) Ya da Baðlacý: p ve q, birer önerme olsun bu önermelerden yalnýzca birinin 1, olduðu durumlarda 1 deðerini verir. 
+Ayný anda iki doðruluk kabul edilemez. Örneðin, bugün yapmak için önünüzde iki seçenek var; biri telefonunuzla oynamak, 
+diðeri ders çalýþmak. Siz bu seçenekten birini seçmek zorundasýnýz ya telefonla oynamayý seçersiniz ya da ders 
+çalýþmayý seçersiniz; her iki eylem ayný anda yapýlamaz. Ya da baðlacý “v” iþareti ile gösterilir. 
+Ya da tablosunun doðruluk deðerleri aþaðýdaki tablodaki gibidir.
+
+4) Ýse Baðlacý (Þartlý/Koþullu Önerme): p ve q birer koþullu önerme olsun, p birinci önerme, 
+q ise ikinci önerme, p?1, q?0 olduðu durumda 0, diðer bütün durumlarda 1 deðeri döndüren 
+bir baðlaçtýr. “?” iþareti ile gösterilir.
+
+Ayrýca, p ? q þartlý önermesinde;
+p’ye “hipotez”, q’ya ise “hüküm” denir, eðer önermenin doðruluk deðeri 1 ise, bu þartlý önermeye 
+“gerektirme” adý verilir. Önermede q, p için gerek koþul, p önermesine ise, q için gerek koþul denir.
+p ? p ? p
+p ? p’ ? p’
+p’ ? p ? p
+1 ? p ? p
+p ? 1 ? 1
+0 ? p ? 1
+
+Koþullu Önermenin Karþýtý, Tersi ve Karþýt Tersi:
+p ? q önermesinin,
+Karþýtý; q ? p,
+Tersi; p’ ? q’
+Karþýt Tersi; q’ ? p’
+
+ 
+
+5) Ancak ve Ancak Baðlacý (Ýki Yönlü Þartlý Önerme): p ve q birer önerme olmak üzere, 
+p ve q’nun deðerleri ayný (ikisi 1 veya ikisi 0)
+ iken 1 deðerini döndüren iki yönlü þartlý önermedir. “?” iþareti ile gösterilir.
+p ? 0 ? p’
+ p ? q önermesi, p’ v q önermesine örnektir.  Doðruluk tablosu aþaðýdadýr..
+Kuralara göre deðerler aþaðýdaki tabloda gösterilmiþtir.
+
+Eðer p ? q önermesinin doðruluk deðeri 1 ise bu önermeye “çift gerektirme” adý verilir.
+p ? 1 ? p
+p ? 0 ? p’
+p ? p ? 1
+p ? p’ ? 0
+
+ 
+
+Bir bileþik önermede, önermeyi oluþturan önermelerin tüm doðruluk deðerleri için daima 1 dönüyorsa bu önermeye “Totoloji”, eðer tüm doðruluk deðeri için 0 dönüyorsa “Çeliþki” denir.
+p v p’ ? 1 (Totoloji)
+p ? p’ ? 0 (Çeliþki)
+p ? p’ ? 0 (Çeliþki)
+
+ 
+
+Önüne gelen elemanlarýn niceliðini bildiren “Her (?)” ve “Bazý (?)” sözcüklerine “Niceleyici” denir. Bazý niceleyicisinin tersi her, her niceleyecisinin tersi ise bazýdýr.
+
+“?x, p(x)” önermesi “en az bir x için p(x)” diye okunur.
+“?x, p(x)” önermesi “her x için p(x) diye okunur.
+
+“?x, p(x)” önermesinin doðrulunu kanýtlamak için, p(x)’i doðru gösteren bir örnekleme kafidir.
+“?x, p(x)” önermesinin yanlýþlýðýný göstermek için, p(x)i yanlýþ gösteren bir örnekleme kafidir.
+
+ 
+
+Son olarak,
+Bir kavramýn niteliklerinin hepsini belirtmeye “taným”,
+Doðruluðu ispatsýz olarak kabul edilen önermelere “Aksiyom”,
+Doðruluðu ispatlanmasý gereken önermelere “Teorem” denir. Teoremin ispatlanacak kýsmýna “hüküm”, verilen kýsmýna ise “hipotez” adý verilir.

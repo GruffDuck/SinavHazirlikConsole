@@ -1,0 +1,123 @@
+SORU1.
+Bazý hücreler hem oksijenli, hem de oksijensiz ortamlarda solunum yapabilmektedirler. 
+Aþaðýda verilen özelliklerden hangisi, oksijenli ve oksijensiz solunumda ortak olarak gerçekleþmez?
+
+A) Sübstrat düzeyinde fosforilasyonla ATP sentezlenmesi
+B) Reaksiyonlar sýrasýnda enzimlerin kullanýlmasý
+C) Glikozun aktiþeþtirilmesi için 2 molekül ATP nin harcanmasý
+D) Oksidatif fosforilasyon yöntemiyle ATP sentezlenmesi
+E) Ara kademelerde pirüvik asitin oluþma
+
+
+Soru 2
+Canlýlarda enerji ihtiyacýnýn karþýlanmasýný saðlayan bazý olaylar þöyledir: 
+I. Glikozun O2 li ortamda yýkýmý 
+II. Glikozun O2 siz ortamda yýkýmý 
+III. Yað asitlerinin O2 li ortamda yýkýmý 
+lV. Amino asitlerin O2 siz ortamda yýkýmý 
+Bu olaylardan hangi ikisinin sonucunda, diðerlerinden daha fazla ATP enerjisi üretilir?
+A) l ve ll
+B) l ve lll
+C) lI ve III
+D) Il ve IV
+E) IlI ve IV
+
+ 
+
+
+
+Soru 3
+Hücresel solunumla ilgili, 
+I. Glikoliz evresi 
+II. Laktik asit fermantasyonu 
+III. Krebs çemberi 
+IV. Etil alkol fermantasyonu gibi olaylardan hangilerinde, NADH+H+ ve CO2 açýða çýkar?
+A) I ve II
+B) II ve III
+C) I ve IV
+D) II ve IV
+E) Ill ve IV
+
+
+
+
+Soru 4
+Aþaðýdakilerden hangisi fermantasyon reaksiyonlarý sonucunda meydana gelmez?
+A) Sütün yoðurda dönüþmesi
+B) Niþastadan glikoz elde edilmesi
+C) Üzüm suyunun mayalanmasý
+D) Ekmek hamurunun mayalanmasý
+E) Arpa suyunun mayalanmasý
+
+
+SORU 5
+
+Hücresel solunumdaki temel amaç, organik besinlerdeki kimyasal enerjiyi, canlýlýk için gereken kullanýlabilir enerji (ATP) haline getirmektir. Bu amaçla, aþaðýdaki moleküllerden hangisi en fazla oranda kullanýlýr?
+A) Glikoz
+B) Yað asiti
+C) Protein
+D) Vitamin
+E) Gliserol
+Boþ Býrak
+
+ 
+Soru 6
+Fermantasyon reaksiyonlarýnda, farklý canlýlarda farklý son ürünler oluþabilmektedir. Buna göre; 
+I. Laktik asit 
+II. Asetil co-A 
+III. Pirüvik asit 
+IV. Etil alkol þeklindeki maddelerden hangileri, fermantasyonun son ürünlerindendir?
+A) I ve II
+B) I ve III
+C) II ve IV
+D) I ve IV
+E) I, III ve IV
+
+
+Soru 7
+Oksijenli solunumda gerçekleþen; 
+I. Pirüvik asitin oluþmasý 
+II. ATP nin harcanmasý 
+III. Ýlk NADH+H+ nýn oluþmasý IV. CO2 nin açýða çýkmasý olaylarýnýn meydana gelme sýrasý, aþaðýdakilerin hangisinde doðru olarak verilmiþtir?
+A) I II III IV
+B) II I IV III
+C) II III I IV
+D) I III II IV
+E) III I IV II
+
+
+
+SORU 8
+
+Hücrelerin en önemli enerji molekülü olan ATP’nin yapýsýnda; 
+I. Adenin bazý 
+II. Deoksiriboz þekeri 
+III. Fosforik asit isimli moleküllerden hangileri bulunur?
+A) Yalnýz I
+B) I ve II
+C) I ve III
+D) II ve III
+E) I, II ve III
+
+Soru 9
+Bir hücrede, fermantasyon sonucu 24 CO2 ve 24 etil alkol meydana geliyorsa, aþaðýdakilerden hangisi doðru olur?
+ Kullanýlan glikoz //harcanan ATP//Net ATP Kazancý
+
+A) 12 //12//12
+B) 8 //16// 8
+C) 10// 20 //16
+D) 12 //24 //24
+E) 14 //28 //32
+
+
+Soru 10
+
+Bu döngüde, numaralarla gösterilen yerlere aþaðýdakilerden hangisi gelemez? 
+I // II
+
+A) Oksijenli solunum/ Aktif taþýma
+B) Fermantasyon/ Hücre bölünmesi
+C) Fotosentez/ Protein sentezi
+D) Oksijensiz solunum/ Difüzyon
+E) Oksijenli solunum/ Endositoz
+Boþ Býrak

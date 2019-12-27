@@ -1,0 +1,93 @@
+Atomlardan Kuarklara
+
+
+
+Temel Parçacýklar
+
+Atomun elektron, proton ve nötrondan oluþtuðu ortaya çýktýktan sonra bilim dünyasý “Acaba bu atomaltý parçacýklar da bölünebilir mi?” sorusu üzerinde düþünmeye ve araþtýrma yapmaya baþladý.
+
+1950’lerden sonra parçacýk hýzlandýrýcýlarýnýn geliþmesiyle baþka atomaltý parçacýklar da art arda keþfedilmeye baþlandý. Günümüzde yaklaþýk 300 atomaltý parçacýðýn olduðu bilinmektedir.
+
+1900 lü yýllarýn sonlarýna doðru birçok atomaltý parçacýðýn kuark ve lepton adý verilen daha alt temel parçacýklardan oluþur. Bunlardan leptonlarýn tek baþlarýna bulunduklarý halde, kuarklarýn tek baþlarýna bulunamaz.
+
+Kuarklarýn, bir araya gelerek oluþturduklarý kuark gruplarýna hadron adý verilir.
+
+Parçacýk fiziði alanýnda yapýlan çalýþmalar evrende 6 çeþit kuark ile 6 çeþit lepton olduðunu ortaya koydu.
+
+Ayrýca bu 12 temel parçacýktan baþka, bu parçacýklarýn karþýt parçacýklarýnýn da var olduðu anlaþýldý.
+
+
+
+
+Parçacýklarla Ýlgili Deneylerde Hýzlandýrýcýlar Kullanýlýr
+
+Atomaltý parçacýklarla ilgili teoriler, dev laboratuvarlarda kurulan parçacýk hýzlandýrýcýlarý ile test edilmektedir. Manyetik alanlar yardýmýyla, yüklü parçacýklar hýzlandýrýlarak çarpýþma deneyleri yapýlmakta ve bu çarpýþmalar sonucunda parçacýklarýn özellikleri keþfedilmeye çalýþýlmaktadýr.
+
+
+
+
+
+Karþýt parçacýklar
+
+Parçacýk fiziðinde yapýlan teorik ve deneysel çalýþmalar parçacýk olarak yalnýzca kuark ve leptonlarýn olmadýðýný göstermiþtir. Bunlardan baþka karþýt parçacýk olarak tanýmlanan parçacýklar da vardýr. Buna göre her atom altý parçacýk için bir karþýt parçacýk (antiparçacýk) bulunur. En bilinen atomaltý parçacýklar ile bunlarýn karþýt parçacýklarý tabloda verilmiþtir.
+
+
+Parçacýklarda Kütle – Enerji Eþ Deðerliði
+
+Kütle ile enerjinin eþ deðer kavramlar olduðunu biliyoruz. Durgun hâlde bulunan bir cismin de kütlesinden dolayý bir enerjisi vardýr. Bir cismin kütlesinden dolayý sahip olduðu bu enerjiye durgun kütle enerjisi denir.
+
+
+
+
+
+
+Hadronlar
+
+Hadronlar kendi içlerinde baryonlar ve mezonlar olarak ikiye ayrýlýr. Baryonlarýn kütlesi mezonlardan çok daha büyüktür. Baryonlarýn ve mezonlarýn kütleleri de leptonlardan büyüktür. Hadronlar güçlü kuvvetlerden sorumlu parçacýklardýr.
+
+
+
+Baryonlar
+
+Baryonlara vereceðimiz en tanýdýk örnekler protonlar ve nötronlardýr. Kararlý yapýlarýndan dolayý protonlar ve nötronlar günlük yaþamda kullandýðýmýz materyallerde bulunurlar. Protonlar en kararlý baryonlardýr. Baryonlarýn kütleleri protonlarýn kütlelerine eþit ya da daha büyüktür.
+
+Mezonlar
+
+Mezonlarýn pion ve kaon gibi çeþitleri vardýr. Bütün mezonlar kararsýzdýr. Bu nedenle normal günlük yaþamda kullanýlan materyallerin büyük bir kýsmýnýn yapýsýnda bulunmazlar.
+
+
+
+Leptonlar
+
+Leptonlar temel parçacýk olduðu için daha küçük yapýlara ayrýlamazlar ve iç yapýlarý yoktur.
+
+Leptonlar 6 çeþittir. Bunlar elektron, elektron nötrinosu, müon, müon nötrinosu, tau, tau nötrinosudur.
+
+
+
+Kuarklar
+
+u, d ve s ile sembolize edilen üç kuark tanýmlanmýþtýr. Bunlar yukarý, aþaðý ve yana (günümüzde tuhaf) olarak adlandýrýlmýþtýr.
+
+Daha sonralarý yapýlan çarpýþma deneyleri sonucunda bu kuarklardan baþka üç çeþit kuarkýn daha varlýðý kabul edilmiþtir. Bunlara da týlsýmlý, üst ve alt denilmiþtir.
+
+Günümüzde bu kuarklardan yukarý-aþaðý, tuhaf-týlsýmlý ve üst-alt þeklinde çiftler hâlinde bahsedilmektedir. Ayrýca her kuarkýn, zýt yüklü bir karþýt kuarký da bulunur.
+
+
+
+Hadronlarýn Kuark Yapýsý
+
+Hadronlarýn oluþumundaki kuark yapýsýnýn tablodaki gibi olduðu anlaþýlmýþtýr. Buna göre baryonlar üç tane kuarktan, mezonlar ise bir kuark ile bir karþýtkuarktan oluþur.
+
+
+
+
+
+Baryonlarýn Kuark Yapýsý
+
+
+Normal bir maddenin baryonlarýnýn (proton ve nötron) oluþmasý için yukarý (u) ve aþaðý (d) olmak üzere iki cins kuarkýn olmasý yeterlidir.
+
+Mezonlarýn Kuark Yapýsý
+
+Mezonlar bir kuark ile bir karþýtkuark olmak üzere iki cins kuarktan oluþur.

@@ -1,0 +1,131 @@
+Soru – 1 
+
+1200 g X maddesinin sýcaklýðýný 30 °C artýran ýsý miktarý, kaynama noktasýndaki 100 g suyu tamamen buharlaþtýrdýðýna göre, X maddesinin özýsýsý kaç J/g. °C dir?
+(su için Lb = 540 cal/g. °C)
+
+A) 5, 32    B) 6,27    C) 7,02  D) 7,72    E) 8,24
+
+
+
+Soru – 2 
+
+Kaynama noktasýndaki 400 g kükürtün tamamen kaynayýp buharlaþmasý için gereken ýsý 1600 g etil alkolün sýcaklýðýný kaç derece artýrabilir?
+
+(Kükürt için Lb = 326 J/g.°C, calkol = 2,46 J/g.°C)
+
+A) 69    B) 54   C) 48  D) 42    E) 33
+
+
+
+Soru – 3 
+
+Donma noktasýnda sývý halde bulunan 418 gram kurþunun katý hale geçerken verdiði ýsý, 250 g suyun sýcaklýðýný kaç derece yükseltebilir?
+
+(Kurþun için Ld = 25 J/g.°C, csu = 4,18 j/g.°C)
+
+A) 10    B) 12     C) 15  D) 21    E) 25
+
+
+
+
+
+Soru – 4 
+
+-30 °C deki 150 g buzu, 20 °C deki sývý hale getirmek için verilmesi gereken ýsý miktarý kaç Joule’dür?
+
+(Le = 0,334 J/g.°C, csu = 4,18 J/g.°C, cbuz = 2,1 J/g.°C )
+
+A) 18400,36                B) 21300,5             C) 22040,1
+
+D) 23300                     E) 24100,6
+
+
+
+Soru – 5 
+
+20 °C deki 150 g suyu 120 °C deki buhar haline getirmek için verilmesi gereken ýsý kaç joule’dür?
+
+(csu = 4,18 J/g. °C, cbuhar = 2 j/g.°C, Lb = 2260 J/g.°C)
+
+A) 312520
+
+B) 395160
+
+C) 421255
+
+D) 465124
+
+E) 515892
+
+
+
+
+
+Soru – 6 
+
+Erime sýcaklýðýndaki 500 gram demirin erimesi için verilmesi gereken ýsý, 0 °C deki kaç g suyun sýcaklýðýný kaynama noktasýna kadar (100 °C) çýkarýr?
+
+(Demir için Le = 69,4 cal/g.°C, csu = 1 cal/g.°C)
+
+A) 1050     B) 800  C) 761   D) 492   E) 347
+
+
+
+
+Soru – 7 
+
+Fahrenheit termometresinin 176 °F yi gösterdiði ortamda Celcius termometresi kaç °C yi gösterir?
+
+A) 50   B) 60    C) 70   D) 80       E) 90
+
+
+
+Soru – 8 
+
+X termometresi suyun donma sýcaklýðýný 35 °X ile kaynama sýcaklýðýný ise 185 °X ile göstermektedir.
+
+Y termometresi suyun donma sýcaklýðýný 20 °Y ile kaynama sýcaklýðýný ise 140 °Y ile göstermektedir.
+
+Buna göre X termometresinin 95 °X i gösterdiði sýcaklýkta Y termometresi kaç °Y yi gösterir?
+
+A) 75        B) 68         C) 62   D) 56        E) 50
+
+
+
+
+
+Soru – 9 
+
+200 g alüminyumun sýcaklýðýný 20 °C den 270 °C ye çýkaran ýsý enerjisi, 500 g bakýrýn sýcaklýðýný 100 °C den kaç dereceye çýkarýr?
+
+(cAl = 0,9 J/kg.°C, cbakýr = 0,4 J/g.°C)
+
+A) 325         B) 370       C) 400   D) 450        E) 500
+
+
+
+
+
+Soru – 10 
+
+Yukarýda bir X maddesinin sýcaklýk – ýsý grafiði verilmiþtir. Bu grafikle ilgili olarak,
+
+I. X’in erime noktasý 80 °C dir.
+
+II. X maddesi katý halden sývý hale geçiþi sýrasýnda 600 kJ ýsý enerjisi almýþtýr.
+
+III. 200 kJ ýsý enerjisi X maddesini erime noktasýndan kaynama noktasýna getirmektedir.
+
+IV. X, sývý halden gaz haline geçerken 2200 kJ ýsý enerjisi almýþtýr.
+
+Ýfadelerinden hangileri doðrudur?
+
+A) Yalnýz I
+
+B) I ve II
+
+C) I ve III
+
+D) II ve IV
+
+E) I, II, III ve IV

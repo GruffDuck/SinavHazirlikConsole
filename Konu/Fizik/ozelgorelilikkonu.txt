@@ -1,0 +1,152 @@
+
+      Modern Fiziðe Giriþ ve Özel Görelilik
+
+
+
+Fizik biliminin geliþmesi, klasik fizik ve modem fizik ayýrýmýný beraberinde getirmiþtir. 20. yüzyýldan önce fizik bilimiyle ilgili Newton’un hareket kanunlarý ve genel çekim kanunu, Maxwell’in elektrik ve manyetizmayý birleþtiren kuramsal çalýþmalarý, termodinamik kanun­larý, klasik fizik anlayýþýný temsil etmektedir.
+
+20. yüzyýldan sonra, Planck’ýn siyah ci­sim ýþýmasý ile ilgili çalýþmalarý, Einstein’ýn modern ýþýk te­orisi, Hertz'in foto­elektrik olay Ýle ilgili çalýþmalarý, Young deneyi, Huygens'in ýþýk teorisi, Bohr, Heisenberg ve diðer bilim adamlarýnýn ortaya koyduklarý kuramlar, Einstein’ýn özel görelilik te­orisi, modern fizik biliminin öncü çalýþmalarýný oluþtur­maktadýr.
+
+ 
+Fizik biliminde 1900 yýlý ve öncesini kapsayan fizik an­layýþýna klasik fizik, 20. yüzyýl ve sonrasýný kapsayan, görelilik ve kuantum tabanlý fizik anlayýþýna ise modern fizik denir. Klasik fizik, kütlesi büyük, hýzý küçük olan cisimleri kap­sar, makro evrendeki olaylarý açýklamaya çalýþýr. Modern fizik ise, atom ve atom altý parçacýklardan olu­þan ve ýþýk hýzýna yakýn hýzlarda hareket eden cisimle­rin hareket ve davranýþlarýný açýklamaya çalýþýr.
+
+Modern fiziðe dair çalýþmalar, atom, molekül ve çekir­deklerin davranýþlarýný açýklamayý hedefleyen kuan­tum fiziði, atomu ve atomun alt parçacýklarý inceleyen atom ve çekirdek fiziði ve doðadaki katý cisimlerin fi­ziksel özelliklerini inceleyen katý hal fiziði gibi alt isim­ler altýnda incelenir.
+
+   
+
+    
+    Referans Sistemleri
+
+Olaylarýn oluþ zamanýnýn ve meydana geldiði konu­munun belirlenmesinde, cisimlerin hareketinin taným­lanmasýnda, baþlangýç olarak seçilen sistemlere refe­rans sistemleri denir. Referans sistemi, hýzlanýyor, ya­vaþlýyor, sabit hýzla gidiyor ya da duruyor olabilir.
+
+Duran ya da sabit bir hýzla hareket eden referans sis­temine eylemsiz referans sistemi denir. Birbirlerine göre deðiþen hýzda hareket eden (ivmeli hareket ya­pan) sistemlere de eylemli referans sistemleri adý verilir.
+
+Tüm cisimlerin birbirlerine göre bir harekete sahip olmasý nedeniyle tek bir referans sisteminden bah­sedilemez. Evrende mutlak manada eylemsiz refe­rans sistemi yoktur. Ancak Dünya yeryüzündeki ha­reketler için eylemsiz referans sistemi olarak kabul edilebilir.
+
+Klasik fizik kapsamýnda, eylemsiz referans sisteminin hareketine baðlý olarak deðiþmeyen kütle ve zaman gibi büyüklükler mutlak büyüklükler, bu büyüklüklerin dýþýndaki büyüklükler baðýl büyüklüklerdir. Örneðin hýz ve ivme baðýl büyüklüklerdendir. Yani ýþýk hýzýna göre çok küçük hýzlarda hareket eden hareketlilerin hýzlarý ve ivmeleri eylemsiz referans sisteminin hareketine baðlý olarak deðiþir.
+
+
+
+
+     Michelson - Morley Deneyi
+
+Esir maddesinin var olup olmadýðýný araþtýrmak için yapýlmýþ bir deneydir. Michelson ve Morley doðrudan ýþýðýn hýzýný ölçme yerine þekildeki aygýt yardýmý ile ay­ný ýþýk demetini yarý saydam yüzeyde iki demete ayýr­mýþ ve sonra farklý yollardan gidip gelen bu ýþýklarý bir­leþtirerek gözlem yapmýþlardýr.
+
+Michelson ve Mor­ley deneylerinde yaptýklarý deðiþik­liklere ve Dünya’nýn farklý yerlerinde ay­ný þartlarda deneyi yapmalarýna rað­men gözlemlerinde farklýlýk görmediler.
+
+Bu durum, 'Dünya'nýn hýzý yýlýn de­ðiþik aylarýnda Gü­neþ etrafýndaki yö­rüngesine baðlý olarak deðiþse bile, ýþýk, Dünya ya baðlý bir referans sisteminin her yerinde ayný hýzla iler­lemektedir' sonucuna ulaþtýrmýþtýr. Yani ýþýk hýzý, her­hangi bir referans sistemine baðlý deðildir. Mutlak (de­ðiþmez) bir hýzdýr. Referans sisteminin hýzýna baðlý ola­rak da deðiþmemektedir. Deneyler, ýþýk hýzýnýn deðiþ­mediðini ispatlamýþtýr. Esir maddesinin varlýðýný ise ispatlayamamýþtýr.
+
+
+ 
+Modern fiziðe göre, ýþýk hýzý referans sisteminin hare­ketine baðlý olarak deðiþmediðinden, ýþýk hýzýyla hare­ket eden sistemde farlarý yanan bir arabanýn farý önü­nü aydýnlatýr.
+
+Klasik fiziðe göre ýþýk hýzýna göre küçük hýzlarla hare­ket eden bir araba, farlarýný yakýnca farlardan yayýlan ýþýklar cisimlere çarparak onlarý aydýnlatýr. Ancak araba ýþýk hýzýyla hareket ediyorsa fardan ýþýk yaylamayaca­ðý için cisimleri aydýnlatamaz.
+
+Benzer olarak ýþýk hýzýyla giden sistem içerisinde bu­lunduðumuzu varsayarak elimizdeki aynaya baktýðý­mýzda kendimizi göremeyiz. Klasik fizik yasalarýna gö­re, ýþýk hýzýyla gidildiðinde ayna üzerine ýþýk düþmeye­cek ve aynada yansýma olamayacaðýndan dolayý ken­dimizi aynada göremeyiz. Modern fiziðe göre ise ýþýk hýzý kaynaðýn hýzýndan ve referans sistemlerinden ba­ðýmsýz olduðu için aynaya baktýðýmýzda kendimizi ay­nada görebiliriz. Araba ile gidiyorsak arabanýn farýný açtýðýmýzda farýn arabanýn önünü aydýnlattýðýný görü­rüz.
+
+
+
+
+     Görelilik
+
+Uzay ve zamanýn gözlemcinin hareketinden etkilendi­ði, seçilen referans noktalarýna göre deðiþik durumla­rýn ortaya çýktýðý, mutlak bir hareketin bulunmadýðý hâle görelilik denir.
+
+Fizik biliminde uzay ve zaman ile ilgili, iki sonuç ön gö­rülmüþtür. Bunlar;
+
+Newton yasalarý birbirine göre sabit hýzla hareket eden tüm referans sistemlerinde geçerlidir.
+Iþýðýn tüm doðrultularda ayný c hýzý ile gidebildiði tek bir referans sistemi vardýr.
+Buradaki 2. kabul, Michelson - Morley deneyi ile çürü­tülmüþtür. Iþýk her referans sisteminde ayný c hýzý ile hareket etmektedir.
+
+Einstein in kurduðu görelilik teorisi, eylemsiz referans sistemlerini ve tüm eylemsiz referans sistemlerinde geçerli olan yasalarý içerir.
+
+
+
+   Göreliliðin 1. kabulü
+
+Fizik yasalarý bütün eylemsiz referans sistemlerinde ay­nýdýr.
+
+
+   Göreliliðin 2. kabulü
+
+Iþýðýn boþ uzaydaki hýzý bütün eylemsizlik referans sis­temleri için aynýdýr. Tüm eylemsiz referans sistemlerin­de ýþýðýn boþluktaki hýzý her yönde ayný olup, c = 3 108 m/s dir. Iþýk hýzý eylemsiz referans sistem­lerinden ve ýþýk kaynaðýnýn hýzýndan baðýmsýzdýr.
+
+
+
+
+
+
+    Eþ Zamanlýlýk
+
+
+Eylemsiz bir referans sis­teminde, olaylarýn oluþ za­manlarýnýn tam olarak belir­lenmesi için, bir x, y ve z koordinat sistemi ve uzay­da her bölgede yeterli sayý­da eþ zamanlý kronometre ile ölçüm yapacak araçla­rýn olmasý gereklidir. Bu sayede bir olayýn konumu ve oluþ zamaný belirlenmiþ olacaktýr.
+
+Bir referans sisteminde ayný anda olan iki olayý farklý bir gözlem çerçevesinden izleyen kiþiye göre, bu olay­lar farklý anlarda oluþur. Dolayýsý ile eþ zamanlýlýk hare­ket hâlindeki gözlemciler için görecelidir.
+
+
+ 
+Benzer olarak, bir gözlem çerçevesinde ayný anda olan iki olay, bu gözlem çerçevesine göre sabit hýzla hareket eden ikinci bir gözlem çerçevesinden incele­nirse olaylarýn farklý zamanlarda oluþtuðu gözlemlenir. Çünkü hareket hâlindeki gözlemciye baðlý olarak so­nuçlar deðiþebilir. O halde, eþ zamanlýlýk mutlak bir kavram deðildir.
+
+Günümüzde, küresel yer belirleme sistemi olan GPS sistemi ile eþ zamanlý yer ve zaman belirlenmektedir. Bu sistem Dünya üzerindeki kesin yeri tespit etmeyi mümkün kýlan bir sistemdir.
+
+
+
+
+
+
+    Zamanýn Göreliliði
+
+Iþýk hýzýna yakýn hýzlarda hareket edildiðinde eylemsiz referans sistemine göre zaman geniþler. Herhangi bir olay için zaman geniþlemesi, olayýn geçtiði referans sistemindeki gözlemciye göre deðildir. Zaman geniþ­lemesi, olayýn kendisine göre yüksek hýzla hareket et­tiði referans sistemindeki gözlemciye göredir. Yani za­man, baðýl olarak durgun olan, diðer referans siste­mindeki gözlemci tarafýndan daha fazla ölçülür.
+
+Zaman genleþmesi göreceli bir etkidir. Birbirine göre baðýl hareket eden gözlemcilerden her biri diðerinde­ki zamanýn, kendi zamanýna göre daha yavaþ iþlediði­ni algýlar. Dolayýsý ile ýþýk hýzýna yakýn hýzlardaki hare­ketlerde zamanýn, ayný referans sistemindeki ölçmeye göre, farklý referans sisteminde daha fazla ölçülmesi­ne zamanýn geniþlemesi denir. Örneðin duran bir gözlemciye göre, hareketli bir saat, durgun bir saate göre daha yavaþ çalýþýr.
+
+Bir eylemsiz referans sisteminde bulunan bir gözlem­ci kendi sisteminde gerçekleþen olayýn t0 sürede oldu­ðunu ölçmüþ olsun. Bu eylemsiz referans sistemini Dünyadan gözleyen gözlemci, zaman aralýðýnýn baþ­langýç ve sonunu göz önüne aldýðýnda olayýn süresi­nin t0 süresinden daha uzun olduðunu görür. Bu etki zamanýn geniþlemesidir
+
+
+
+
+
+
+
+    Uzunluk Büzülmesi
+
+
+Iþýk hýzýna yakýn hýzlarda hareket edildiðinde eylemsiz referans sistemine göre uzunluklar kýsalýr. Herhangi bir olay için uzunluk büzülmesi, olayýn geçtiði referans sistemindeki gözlemciye göre deðildir. Uzunluk büzül­mesi, olayýn kendisine göre yüksek hýzla hareket ettiði referans sistemindeki gözlemciye göredir. Yani uzun­luk, baðýl olarak durgun olan, diðer referans sistemin­deki gözlemci tarafýndan daha kýsa ölçülür.
+
+Uzunluk kýsalmasý göreceli bir etkidir. Birbirine göre baðýl hareket eden gözlemcilerden her biri diðerinde­ki uzunluðun, normal uzunluða göre daha küçük oldu­ðunu algýlar. Dolayýsý ile ýþýk hýzýna yakýn hýzlardaki ha­reketlerde herhangi iki nokta arasýndaki uzunluðun, noktalarýn bulunduðu referans sistemine göre yüksek hýzla hareket eden bir referans sistemindeki gözlemci tarafýndan daha küçük ölçülmesine uzunluk kýsalma­sý denir.
+
+Bir referans sistemindeki gözlemciye göre, hareketli olan cismin yalnýzca hareket doðrultusundaki uzunlu­ðu için kýsalma algýlanýr. Harekete dik doðrultulardaki uzunluklar için kýsalma olmaz.
+
+
+
+
+
+
+     Göreli Enerji
+
+Iþýk hýzýna yakýn hýzlarda harekelin olduðu durumlarda madde miktarý olarak tanýmlanan kütle, bu düzeyde enerji deðiþimi ile deðiþebilen bir nicelik olarak karþý­mýza çýkar.
+
+Enerji, maddenin hýzýna baðlýdýr. Hýzý deðiþen madde­nin tanecik sayýsý deðiþmez, sadece taneciklerinin dolayýsý ile maddenin enerjisi deðiþir. Kütle, madde mik­tarý ve iç enerjinin bir ölçüsü olduðundan, bir madde­ye verilen enerji artarsa maddenin kütlesi artar
+
+
+
+
+Gözlem çerçevelerinin farklý olmasý ve gözlemcinin ha­reketine göre bir sistemin kütlesi, enerjisi gibi davranýr. Rölativite teorisine göre, kütle, enerjinin yoðunlaþmýþ bir hâlidir
+
+
+Kütle enerjisi; herhangi bir madde, durgun hâlde bu­lunsa ve baþka maddelerle etkileþim hâlinde olmasa bile bir enerjiye sahiptir. Bu enerjiye kütle enerjisi de­nir. Einstein’a göre yapýlan bu tanýma göre, kütle ve enerji eþdeðer niceliklerdir.
+
+
+
+Herhangi bir kütlenin oluþturulabilmesi için enerji ge­reklidir. Herhangi bir kütle de fiziksel olarak kullanýldý­ðýnda enerjisi açýða çýkacaktýr.
+
+
+
+
+
+
+
+
+
+
+
+

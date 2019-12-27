@@ -1,0 +1,79 @@
+      Karýþýmlar
+
+
+En az iki farklý maddenin fiziksel olarak bir araya gelmesiyle oluþan yapýya karýþým adý verilir.
+
+ 
+     Çözelti 
+Bir maddenin baþka bir maddede homojen olarak daðýlmasýna çözünme denir. Bu þekilde meydana gelen karýþýmlara ise çözelti denir. Buradan çözeltilerin homojen karýþýmlar olduðu sonucunu rahatlýkla çýkarabiliriz.
+
+Çözeltilerde çözücü ve çözünen þeklinde en az iki farklý madde vardýr. Örneðin tuzlu suda su çözücü, tuz da çözünendir. Çözeltilerde çözücü ve çözünen oranlarý birbirinden farklýlýk gösterebilir.
+
+Karýþýmda ortak özelliklerin olduðu noktalara faz denir.
+Çözeltiler tek fazlý, heterojen karýþýmlar ise çok fazlýdýr.
+
+
+
+       Çözeltilerde Çözücü ve Çözünen Arasýndaki Etkileþim
+Karýþýmlarý meydana getiren tanecikler arasý çekim kuvvetleri maddelerin çözelti oluþturup oluþturmayacaðýný belirler. Apolar moleküller arasýnda bulunan çekim kuvveti sadece London kuvvetleridir. Dipol - dipol etkileþimi polar sývýlarda ve katýlarda bulunan çekim kuvvetleridir ve dipol - dipol ve iyon - dipol olmak üzere iki þekilde ortaya çýkar.
+
+Polar moleküllerdeki dipol - dipol etkileþimi apolar moleküllerdeki London etkileþiminden daha güçlüdür. Polar ve apolar maddeler çoðunlukla karýþmazlar. Buradan da þu sonuç çýkar. Yapýlarý benzeyen maddeler birbirine karýþýr.
+
+Bilinen en iyi polar çözücülerden biri sudur. Ýyonik ve polar kovalent bileþikler için su çok iyi bir çözücüdür.
+
+
+
+      Çözünme Türleri
+Endotermik çözünme: Çözünme sýrasýnda ortamdan ýsý alýnýyorsa bu tür çözünmelere endotermik çözünme denir.
+
+
+Endotermik çözünmede eðer ýsý yalýtýmý varsa dýþarýdan ýsý alýnamayacaðý için ortamýn sýcaklýðý düþecektir. Endotermik çözeltilerde ortam sýcaklýðýný arttýrýrsanýz çözünme daha kolay gerçekleþir.
+
+Katýlarýn çözünmesi genellikle endotermiktiktir ancak çözünmesi ekzotermik olan katýlar da vardýr.
+
+Ekzotermik çözünme: Çözünme sýrasýnda ýsý açýða çýkýyorsa ekzotermik çözünme vardýr demektir.
+
+Ekzotermik çözünme gerçekleþirken ýsý yalýtýmý varsa ýsý dýþarý verilemez. Bu nedenle ortam sýcaklýðý artacaktýr.
+
+
+
+Ekzotermik çözünmelerde ortam sýcaklýðýnýn düþürülmesi çözünmeyi daha kolay hale getirir.
+
+
+Moleküler çözünme: Suda çözündüðünde iyonlaþmayan moleküllerin çözünmesidir. Moleküler çözünen maddeler kovelent baðlý bileþiklerdir.
+
+Moleküller halinde çözünen bu bileþiklerin sulu çözeltileri elektrik akýmýný iletmez.
+
+
+
+Ýyonik çözünme: Ýyonik baðlý bileþikler, asitler, bazlar ve tuzlar suda iyonlaþarak çözünür. Bu tür çözünmede suda iyonlar oluþtuðu için elektrik akýmý iletilir.
+
+
+Kimyasal çözünme: Çözünme olayý genellikle fiizksel bir deðiþimdir. Ancak bazý durumlarda çözünmeyle birlikte su ile tepkime de ortaya çýkar. Bu durumda moleküllerin yapýsý deðiþir ve kimyasal deðiþim meydana gelir.
+
+
+
+Yukarýdaki tepkimede sodyum suda çözünürken su ile tepkime vererek bir baz oluþturmuþtur. Bu örnekteki çözünme kimyasal çözünmedir.
+
+
+
+Yukarýdaki örnekte K ve Br taneciklerinin çözünmesinde taneciklerin yapýsý korunduðundan çözünme fizikseldir. Tuz, þeker ve alkol gibi maddelerin çözünmesi fiziksel çözünmedir. Kimyasal deðiþim olmaz.
+
+
+     Çözeltilerin Özellikleri
+Karýþýmlardan homojen olanlarýn yani çözeltilerin çeþitli özellikleri vardýr. Bu özellikleri maddeler halinde þöyle sýralayabiliriz:
+
+-Homojen karýþýmlardýr.
+-Karýþým olduklarýndan saf deðillerdir.
+-Saf olmadýðý için de erime noktasý, donma noktasý gibi ayýrt edici özellikleri yoktur. Bu deðerler karýþýmý oluþturan maddelerin oranlarýna baðlýdýr.
+-Ýyon içerenleri elektrik akýmýný iletir. Sadece molekül içerenleri elektriði iletmez.
+-Ýyonik çözeltiler elektrolittir.
+-Uçucu olmayan bir maddenin sývýda çözünmesiyle oluþan karýþýmlarýn buhar basýnçlarý saf maddelerin buhar basýncýndan daha düþüktür.
+   
+    Çözünürlük
+Belirli bir sýcaklýk ve basýnçta, belirli bir çözücüde genellikle 100g suda çözünen madde miktarýna çözünürlük denir. Çözünürlük t° C'de X gr / 100 gr su olarak ifade edilir.
+
+Bir çözeltinin çözünürlük deðeri ayný zamanda çözeltinin doymuþ hale gelmesi için gereken madde miktarýný da gösterir. Çözünürlük deðerinin altýnda madde varsa karýþým doymamýþtýr.
+
+Çözünürlüðün üstünde madde eklendiðinde ise aþýrý doymuþ çözelti oluþur.
+

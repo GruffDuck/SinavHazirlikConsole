@@ -1,0 +1,55 @@
+Problemler
+
+*Sayý Problemleri
+*FaizProblemleri
+*Yaþ Problemleri
+
+
+Sayý Problemleri
+
+Herhangi bir sayý x olsun.
+Bu sayýnýn a fazlasý : x + a dýr.
+Bu sayýnýn a fazlasýnýn yarýsý : (x+a)/2 ' dir. 
+Bu sayýnýn yarýsýnýn a fazlasý : (x/2)+a ' dýr.
+Bu sayýnýn küpünün a eksiði : (x*x*x) - a ' dýr.
+
+Herhangi iki sayý x ve y olsun.
+
+Bu iki sayýnýn toplamýnýn a katý : a.(x + y)
+Bu iki sayýnýn kareleri toplamý : x² + y² dir.
+Bu iki sayýnýn toplamýnýn karesi : (x + y)² dir.
+
+Ardýþýk tam sayýlardan en küçüðü x olsun.
+Ardýþýk üç tam sayýnýn toplamý :
+x + (x + 1) + (x + 2) dir.
+Ardýþýk üç çift sayýnýn toplamý :
+x + (x + 2) + (x + 4) tür. (x, çift sayý)
+Ardýþýk üç tek sayýnýn toplamý :
+x + (x + 2) + (x + 4) tür. (x, tek sayý)
+
+
+Yaþ Problemleri
+
+ 
+• T yýl önceki yaþý : x – T
+• T yýl sonraki yaþý : x + T olur.
+• Kiþiler arasýndaki yaþ farký her zaman aynýdýr.
+• Ýki kiþinin yaþlarý oraný yýllara göre orantýlý deðildir.
+• Ýki kiþinin yaþlarý toplamý T yýl sonra 2 . T artar.
+• n kiþinin yaþlarý toplamý T yýl sonra n . T artar.
+
+
+Faiz Problemleri
+
+F : Faiz miktarý
+A : Anapara (Kapital)
+n : Yýllýk faiz oraný
+t : Kapitalin faizde kalma süresi olmak üzere,
+t  yýlda F= (A.n.t)/100
+
+t ayda F=(A.n.t)/(100.12) = (A.n.t)/1200;
+
+t günde F=(A.n.t)/3600  olur.
+Faize yatýrýlan para her yýl getirdiði faiz ile birlikte tekrar faize yatýrýlýrsa elde edilen toplam faize bileþik faiz denir.
+Buna göre, A lira yýllýk bileþik faiz oraný % n olan bir bankaya yatýrýlýyor. t yýl sonra
+

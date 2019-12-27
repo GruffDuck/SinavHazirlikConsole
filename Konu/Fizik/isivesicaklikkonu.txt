@@ -1,0 +1,110 @@
+    Isý, Sýcaklýk ve Genleþme Konu Anlatýmý
+
+Isý sýcaklýk ve genleþme fiziðin en önemli konularýndan biridir. YGS fizik konularý incelendiðinde sýnavda çýkmýþ fizik sorularýnýn önemli bir kýsmýnýn bu konudan geldiði görülebilir. Ayrýca LYS'de de bu konudan önemli sorular gelmektedir.
+
+Isý ve sýcaklýk günlük yaþantýmýzda sýkça kullandýðýmýz iki kavramdýr. Fakat bu kavramlar çoðu kez birbirine karýþtýrýlýr. Bu üniteyi incelediðimizde ýsý ve sýcaklýk kavramlarýnýn birbirinden farklý olduðunu, sýcaklýðýn ölçülebilir (temel büyüklük) olduðunu ve ýsýalan bir maddenin sýcaklýðýnýn arttýðýný, ýsýveren bir maddenin ise sýcaklýðýnýn azaldýðýný, hal deðiþimi ve genleþmeyi öðreneceðiz.
+
+      Sýcaklýk
+
+Sýcaklýk Bütün maddelerin atom ya da moleküllerden oluþtuðunu daha önceki yýllarda öðrenmiþtik. Bu atom ya da moleküller devamlý titreþim (hareket) halindedir. Bir cismin sýcaklýðý 0 °K’e kadar düþürüldüðünde (bu sýcaklýk deðerine hiç bir zaman ulaþýlamaz) o maddedeki atom veya moleküllerin hareket edemeyeceði kabul edilir. Maddenin sýcaklýðý arttýrýldýðýnda ise atom ya da moleküller titreþmeye baþlar
+
+
+     Termometreler
+
+Bir cismin veya bir ortamýn sýcaklýðý termometre ile ölçülür. Termometreler, maddelerin genleþmesinden faydalanýlarak yapýlýr. Ayrýca termometrede kullanýlan maddenin cinsi de önemlidir. Bazý maddeler çok düþük sýcaklýklarda hal deðiþtirirken bazýlarý ise yüksek sýcaklýklarda hal deðiþtirir.
+
+Buna baðlý olarak çok düþük ve çok yüksek sýcaklýklarý ölçebilmek için deðiþik termometre türleri geliþtirilmiþtir.
+
+       Katý (Metal Çiftli) Termometreler
+
+Genleþme katsayýlarý farklý iki metal þeridin birbirine perçinlenmesi ile oluþturulur. Çok yüksek sýcaklýklarý ölçmek için kullanýlýr.
+
+      Gazlý Termometreler
+
+Çok düþük sýcaklýk deðerlerini ölçmek için kullanýlýr. Gazlarýn sýcaklýk deðiþimi ile basýnçlarýnýn özelliðine göre çalýþýrlar.
+
+       Sývýlý Termometreler
+ 
+Termometrenin haznesine konulan sývýnýn genleþme özelliðine göre tasarlanýr.
+
+Termometre ile ölçüm yapýlabilmesi için, termometrenin içindeki sývýnýn hal deðiþtirmemesi gerekir. Sivili termometreler orta sýcaklýk deðerlerini ölçmek için kullanýlýr. Günlük yaþamda en yaygýn termometredir.
+
+
+ 
+Sývýlý bir termometrenin ölçebileceði en küçük sýcaklýk deðeri (hassasiyeti), sývý haznesinin büyüklüðüne, kullanýlan sývýnýn genleþme katsayýsýna, içinde sývýnýn yükseldiði kýlcal cam borunun ince olmasýna ve cam borudaki bölme sayýsýna baðlýdýr. Suyun donma sýcaklýðýný O °C, kaynama sýcaklýðýný 100 °C olarak iþaretlediðimiz termometre Celcius termometresidir. Ayný þekilde suyun donma ve kaynama sýcaklýklarý farklý iþaretlenmiþ termometreler vardýr.
+
+      Isýl Denge ve Isý Alýþ Veriþi
+
+Sýcaklýklarý farklý iki cisim, ýsýca yalýtýlmýþ bir ortamda bir araya getirilirse, sýcaklýðý yüksek olan maddeden sýcaklýðý düþük olan maddeye doðru ýsý akýþý olur.
+
+Bu olay cisimlerin sýcaklýklarý eþit oluncaya kadar devam eder.
+
+
+ 
+Cisimlerin sýcaklýklarýnýn eþit olduðu sýcaklýða denge sýcaklýðý denir ve cisimler denge sýcaklýðýna ulaþtýktan sonra sýcaklýklarý deðiþmez
+
+
+Isý Nasýl Ýletilir?
+Isý enerjisinin sýcaklýðý yüksek olan maddeden sýcaklýðý düþük olan maddeye doðru aktýðýný belirtmiþtik. Þimdi ise ýsý enerjisinin nasýl yayýldýðýný ya da nasýl iletildiðini öðrenelim.
+
+Isý üç yolla iletilip yayýlýr. Bunlar þu þekildedir:
+
+Ýletim yoluyla
+Taþýma (konveksiyon) yoluyla
+Iþýma (radyasyon) yoluyula
+Bunlarý birer birer inceleyim
+
+
+       Isýnýn Ýletim Yolu Ýle Yayýlmasý
+
+
+Isý iletim yolu ile en iyi katýlarda iletilir. Katý haldeki maddeler ýsýtýldýðýnda, ýsý enerjisi taneciklerin titreþimini artýrýr. Katý halde iken madde molekülleri birbirine çok yakýn olduðu için, titreþimi artan tanecik, çevresindeki taneciklere daha hýzla çarparak onlarýn titreþimini artýrýr. Bu þekilde ýsý enerjisi bir tanecikten diðer taneciðe titreþim yolu ile aktarýlmýþ olur. Bir süre sonra tüm taneciklerin titreþimi artacaðýndan ýsý enerjisi katý maddenin bir ucundan diðer ucuna iletilmiþ olur.
+
+Sýcaklýk farklarý nedeniyle enerji aktarýmýna ýsý iletimi denir.
+
+
+ 
+Genelde metaller iyi iletkendir. Isýyý iletim yolu ile yayan katý maddelerden bazýlarý ýsýyý çok hýzlý iletirken, bazýlarýnýn ýsý iletimi oldukça yavaþtýr. Bu nedenle, yemek piþirirken metal kaþýk yerine tahta kaþýk kullanýlýr. Metallerin ýsý iletkenliði hýzlý olduðu için metal kaþýk kullandýðýmýzda elimizin kýsa sürede yandýðýný hissederiz. Hâlbuki tahtanýn ýsý iletim hýzý çok yavaþ olduðu için uzun süre elimizi yakmadan tahta kaþýkla yemeði karýþtýrabiliriz. Bir metalin ýsý iletim hýzý, ýsýtýlan maddenin özelliklerine baðlýdýr. Genelde metaller çok iyi ýsý iletkenidir ve mantar, kâðýt ve fiber gibi malzemeler zayýf iletkendirler. Metaller, içinde hareket eden ve enerjiyi bir bölgeden diðerine taþýyabilen serbest elektronlardan çok sayýda içerdiklerinden iyi ýsý iletkenidirler.
+
+Isý iletimi sadece, iletim ortamýnýn iki noktasý arasýnda sýcaklýk farký varsa oluþur. Bu þekilde ýsý sýcak uçtan soðuk uca doðru akar
+
+    
+       Isýnýn Taþýma (Konveksiyon) Yolu Ýle Yayýlmasý
+
+Sývýlar ve gazlar akýþkandýr. Sývý ya da gaz haldeki maddeler ýsýtýldýðýnda genleþir, hacmi artar. Hacmi artan taneciklerin özkütlesi azalýr. Özkütlesi azalan tanecikler yukarýya doðru yükselmeye baþlar. Böylece, tanecik aldýðý ýsý enerjisini bir yerden baþka bir yere taþýmýþ olur. Isýnan tanecik yukarýya yükseldiðinde, soðuk tanecikler dibe çöker. Onlar da ýsýnýnca yukarýya çýkar. Böylece ýsý, taneciklerin hareketi ile tüm ortama yayýlmýþ olur.
+
+Sobalardan ve kalorifer peteklerinden yayýlan ýsý enerjisi, hava moleküllerinin ýsýyý taþýma yolu ile yaymasýyla evlerimizi ýsýtýr.
+
+    
+
+
+ 
+Bir madde ýþýma yaptýkça enerjisinin bir kýsmýný elektromanyetik dalga þeklinde çevresine yayar. Bu enerjiyi soðuran maddelerin sýcaklýðý artar. 11. sýnýfta bu olayý kara cisim ýþýmasý olarak öðreniriz.
+
+Ýyi ýþýma yapan maddeler ayný zamanda enerjiyi iyi soðurur. Dolayýsý ile ýþýðý iyi soðuran maddeler iyi yansýtmaz. Genellikle koyu renkli cisimler, açýk renkli cisimlere göre daha kötü yansýtýcýdýr. Bunun için yazlarý açýk renkli elbiseler, kýþlarý ise koyu renkli elbiseler tercih edilir.
+
+Soba ile duvar arasýna yerleþtirilen parlak metal levhalar, elektrikli ýsýtýcýlarda akkor telin ardýna yerleþtirilen parlak yüzey, termoslarýn iç kýsýmlarýnda kullanýlan parlak yüzeyler ýsýnýn ýþýma yolu ile kaybolmasýna engel olmak için kullanýlýr. Isý, bu parlak yüzeylere çarptýðýnda yansýmaya uðrar.
+
+Bir madde ayný anda ýþýma ve soðurma yapýyorsa bu maddenin sýcaklýk deðiþimi bu dengeye baðlýdýr. Yani yaptýðý ýþýma, soðurduðu ýþýmadan büyük ise maddenin sýcaklýðý azalýr. Bu iki deðer birbirine eþit ise sýcaklýk deðiþimi gözlenmez.
+
+Üzerine gelen ýþýðý geçiren cisimlere saydam cisim denildiðini biliyoruz. Iþýðý soðuran ya da geçirmeyen maddelere opak madde denir. Fakat bazý durumlarda saydam olarak bildiðimiz maddeler opak, opak olarak bildiðimiz maddeler saydam özelliði gösterebilir. Örneðin cam yüksek enerjili ýþýk karþýsýnda saydam bir madde gibi davranýrken, çok düþük enerjili ýþýk karþýsýnda (radyo dalgasý) opak bir madde gibi davranýr. Ya da duvar güneþ ýþýðýný geçirmediði halde  ýþýnlarýný geçirerek saydam bir madde gibi davranabilir.
+
+Isýnýn iletim ve konveksiyon yolu ile yayýlabilmesi için maddesel bir ortama ihtiyaç vardýr. Fakat ýþýma yolu ile ýsýnýn iletilmesi için maddesel bir ortama gerek yoktur. Güneþten ve diðer yýldýzlardan dünyamýza gelen ýþýk bu þekilde yayýlmaktadýr.
+
+   
+    Hal Deðiþimi
+
+Katý, sývý, gaz hallerinde bulunabilen maddeler bir halden diðer bir hale geçiþ yapabilir. Bu geçiþ için ya maddeye ýsý verilmeli ya da maddeden ýsý alýnmalýdýr.
+
+Katý haldeki maddelere ýsý verilince, moleküller hýzlanýr, molekülleri bir arada tutan baðlar zayýfladýðý için madde erimeye baþlar. Eriyip sývý hale geçen maddeye ýsý verildiðinde moleküller arasýndaki baðlar koptuðu için madde kaynamaya baþlar. Kaynayan sývý, gaz haline geçer. Bu olaylarýn terli de gerçekleþir. Gaz halindeki bir madde ýsý kaybettiðinde yoðunlaþarak sývý hale geçer. Sývý haldeki bir madde, ýsý kaybettiðinde donarak katý hale geçer. Maddeler hal deðiþtirirken sýcaklýðýnda bir deðiþme olmaz. Hal deðiþimi ile ilgili bazý tanýmlar aþaðýdaki gibidir.
+
+
+
+
+
+
+
+
+
+
+

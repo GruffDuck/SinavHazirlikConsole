@@ -1,0 +1,78 @@
+SORU 1.
+Bir torbada 5 beyaz ve 4 siyah bilye bulunmaktadýr. Torbadan geliþigüzel 2 bilye çekilirse ikisinin de beyaz çýkma olasýlýðý 
+kaçtýr?
+
+
+A)1/9  B)5/18  C)7/18 D)5/9 E)5/36
+
+
+SORU 2.
+Bir torbada 8 beyaz ve 6 kýrmýzý bilye vardýr. Torbadan geliþigüzel 3 bilye çekilirse üçünün  de kýrmýzý çýkma olasýlýðý 
+kaçtýr?
+
+A)5/71 B)15/81  C)3/71  D)15/71  E)5/91
+
+
+
+SORU 3.
+
+Ýçinde 5 kýrmýzý,4 beyaz,3 sarý bilye bulunan bir torbadan arka arkaya 3 bilye çekiliyor.
+Çekilen biyelerin üçünün de beyaz gelme olasýlýðý kaçtýr?
+
+A)1/55 B)4/11  C)3/10  D)1/33  E)5/22
+
+
+SORU 4.
+
+Bir torbada üzerlerinde 1 den 12 ye kadar sayýlar olan 12 tane kýrmýzý ve 12 tane beyaz top vardýr.
+Beyaz ve kýrmýzý birer top çekince üzerlerindeki sayýlarýn toplamýnýn 10 olma olasýlýðý kaçtýr?
+
+A)1/16  B)6/23  C)1/2  D)18/2  E)2/18
+
+
+SORU 5.
+
+Her birinde 3 beyaz ve 5 siyah top bulunan iki torbanýn birincisinden bir top alýnýp,ikincisine ve sonrada ikinciden bir top alýnýp
+birincisine kondugunda  renk bakýmýndan ilk durumu elde etme olasýlýðý kaçtýr?
+
+A)1/6  B)7/12 C)5/24  D)5/8+3/9  E)3/8+4/9
+
+
+
+SORU 6.
+Bir torbada 5 beyaz ve 4 kýrmýzý top vardýr.Bu torbadan rastgele iki top çekiliyor.
+Çekilen iki topun  da beyaz olma olasýlýðý kaçtýr?
+
+A)5/18  B)4/15 C)3/13 D)2/11  E)1/5
+
+
+
+SORU 7.
+
+Bir zar ve bir madeni para birlikte atýlýyor.Zarýn 4 veya 4 ten küçük paranýn tura gelme olasýlýðý kaçtýr?
+
+A)1/3  B)1/6  C)1/5  D)1/4  E)2/5
+
+
+
+SORU 8.
+
+Ýçnde 4 kýrmýzý,4 mavi ve 4 sarý bilye bulunan bir torbadan rastgele seçilen üç bilyeden her birinin farklý bir renkte 
+olma olasýlýðý kaçtýr?
+
+A) 1/3  B)6/15  C)13/40  D)14/47  E)16/55
+
+
+
+SORU 9.
+
+Düzgün bir para 3 defa atýldýgýnda,en az bir tura gelme olasýlýðý kaçtýr?
+
+A)7/8 B)1/3 C)1/8 D)5/6  E)1/6
+
+
+SORU 10.
+
+Bir grupta 3 erkek ve 2 kýz ögrenci vardýr.Bu gruptan seçilecek 2 kiþinin de erkek olma olasýlýgý kaçtýr?
+
+A)1/5  B)3/10  C)2/5  D)1/2  E)3/5

@@ -1,0 +1,184 @@
+            Cümlenin Öðeleri Konu Anlatýmý
+ 
+Bir duygu, düþünce veya durumu tam olarak anlatan sözcük ya da söz öbeklerine cümle (tümce) denir. Cümle, özne ve yüklem gibi temel; nesne, dolaylý tümleç ve zarf tümleci gibi yardýmcý ögelerden oluþur.
+
+Þimdi cümlenin ögelerine tek tek deðinelim.
+
+  1. YÜKLEM
+
+
+Cümlede kip ve zaman bildirerek yargýyý ortaya koyan temel unsurdur. Yüklem, tek baþýna cümle özelliði gösterir. Diðer ögeler yüklemin tamamlayýcý ögeleridir.
+
+Cümlede yüklemi bulmak için herhangi bir öðeye soru soramayýz. Onu çekimli durumda bulunan sözcüklerden anlarýz. Örneðin;
+
+“Anlýyorum” sözcüðü “anlamak” eyleminin þimdiki zamanla çekimlendiðini gösteriyor. Öyleyse yargý bildiriyor demektir. Dolayýsýyla bu, bir cümledir.
+
+“Bugün mutfakta anneme yardým ettim.”
+
+cümlesindeki altý çizili söz birleþik fiil olduðu için,
+
+“Çiftçinin ambarý sabanýn ucundadýr.”
+
+cümlesindeki altý çizili söz isim tamlamasý olduðundan,
+
+“Türkçe dersimize giren kiþi genç bir öðretmendi.”
+
+cümlesindeki altý çizili kýsým ise sýfat tamlamasý olduðundan bölünemez ve bu þekilde yüklem olur.
+
+  
+
+
+
+
+   2. ÖZNE
+
+Cümlede yüklemin bildirdiði iþi, hareketi yapan ya da oluþ içinde bulunan öðedir. Cümlenin temel öðesidir. Ancak her cümlede bulunmak zorunda deðildir.
+
+Cümlede özneyi bulmak için yükleme “kim” ve “ne” sorularýný sorarýz. Ancak özellikle “ne” sorusu, nesneyi bulmak için de sorulduðundan, biz özne sorusunu yükleme deðiþik biçimde sorarýz. Örneðin;
+
+“Bu elbiseyi annem aldý.”
+
+cümlesinde “aldý” yüklemdir. Özneyi bulmak için yükleme “Alan kim?” diye soruyoruz. Cevap olarak “annem” geliyor. Öyleyse cümlenin öznesi bu sözcüktür.
+
+Cümlede özne yukarýdaki örneklerde görüldüðü gibi, açýk olarak verilebileceði gibi, yüklemin çekiminden de çýkarýlabilir. Cümlede olmayan, yüklemdeki kiþi eklerinden anlaþýlan bu tür öznelere “gizli özne” adý verilir.
+
+“Ders çalýþmana yardým ederim.”
+
+cümlesinin yüklemi “yardým ederim” sözcüðüdür. Özneyi bulmak için “Yardým eden kim?” diye soruyoruz, “Ben” cevabý geliyor; ancak bu söz cümlede yok, biz bunu yüklemin bildirdiði kiþiden çýkarýyoruz. Öyleyse bu cümlenin öznesi gizli öznedir. Bu özne cümlede var olan ögelerden biri sayýlmaz.
+
+Yani “Gördüm.” cümlesinde öznenin “ben” olduðu görülse bile bu cümle sadece yüklemden oluþmuþ sayýlýr.
+
+Bazý cümlelerde iþi yapan belli deðildir. Bu cümlelerde iþten etkilenen öðe sözde özne kabul edilir.
+
+
+ 
+“Sokaklar çok güzel temizlendi.”
+
+cümlesinde iþi yapan belli deðildir. Ama iþten etkilenen öðe vardýr. “Temizlenen ne?” sorusu bize “sokaklar” sözcüðünü veriyor. Bu þekildeki öznelere sözde özne denir.
+
+Bazý cümlelerde ise özne bulunmaz. Yani eylemi yapan bazen belli deðildir.
+
+“Yaðmurlu havalarda geziye gidilmez.”
+
+cümlesinde “gidilmeyen ne, gidilmeyen kim?” gibi sorulara cevap alýnmaz. Öyleyse cümlenin öznesi yoktur.
+
+
+
+
+  3. NESNE
+
+Cümlede yüklemin bildirdiði iþten etkilenen öðedir. Yükleme sorulan “kimi, neyi, ne” sorularýna cevap verir. Nesneler hâl ekini alýp almamalarýna göre iki grupta incelenir.
+
+
+
+
+  a. Belirtili Nesne
+
+Nesne görevinde bulunan söz, “-i” hâl ekini almýþsa, nesneye belirtili nesne denir.
+
+“Kitabý öðretmenden aldý.”
+
+cümlesinde “kitabý” nesnesi “-i” hal eki aldýðýndan belirtili nesnedir.
+
+
+
+
+  b. Belirtisiz Nesne
+
+Nesne görevinde bulunan söz “-i” hâl ekini almamýþsa buna, belirtisiz nesne denir.
+
+“Akþama kadar odasýnda kitap okudu.”
+
+
+cümlesinde “kitap” nesnesi bu eki almamýþ ve belirtisiz nesne olmuþtur.
+
+
+
+
+
+
+     4. DOLAYLI TÜMLEÇ
+
+Yüklemin yöneldiði, bulunduðu, çýktýðý yeri gösteren öðedir. Yükleme sorulan “-e”, “-de” ve “-den” hâl eklerini alan sorulara ayný ekleri alarak cevap veren sözcük ya da söz öbekleri dolaylý tümleç görevinde bulunur. Sorularýn ve cevaplarýn ayný ekleri almasý zorunluluðu, bunun diðer ögelerle karýþmasýna engel olur.
+
+“Çözemediði sorularý bana sorar.”
+
+cümlesinde altý çizili öðeyi bulabilmek için yükleme “kime” sorusunu soruyoruz. Soru da cevap da ayný eki almýþ. Öyleyse “bana” sözü dolaylý tümleçtir.
+
+“Akþama eve geç kalmayýn.”
+
+
+ 
+cümlesinde altý çizili sözcük de “-e” hâl ekini almýþtýr. Ancak bu ögeyi bulmak için yükleme “ne zaman” sorusunu soruyoruz. Görüldüðü gibi soru hâl eki almadan soruluyor. Öyleyse bu, “-e” hâl eki almýþ olmasýna raðmen dolaylý tümleç deðildir.
+
+Ayný durumu “-de” ve “-den” eklerinde de görebiliriz.
+
+“Sabah erkenden daða çýkacaðýz.”
+“Öðrenciler henüz dersten çýkmadý.”
+“Okulun bahçesinde top oynadýk.
+cümlelerindeki altý çizili sözler dolaylý tümleçtir.
+
+
+
+
+
+    5. ZARF TÜMLECÝ
+
+Yüklemin zamanýný, durumunu, miktarýný, yönünü, koþulunu vb. bildiren ögelerdir. Bunlarýn her biri deðiþik bir soruyla bulunur.
+
+“Yazýn bol bol kitap okuyacaðým.”
+
+cümlesindeki altý çizili zarf “ne zaman”,
+
+“Arabamýz engebeli yolda aðýr aðýr ilerliyordu.”
+
+cümlesinde altý çizili zarf “nasýl”,
+
+“Çocuðun dersleri þaþýlacak kadar iyiydi.
+
+cümlesindeki altý çizili zarf “ne kadar”,
+
+“Ayakkabýlarý içeri alýn.”
+
+cümlesindeki altý çizili zarf “nereye” sorusuna cevap vermiþtir. Yükleme sorulan bu sorulara cevap veren ögeler daima zarftýr.
+
+
+
+
+
+
+   CÜMLE VURGUSU
+
+
+ 
+Cümlede asýl anlatýlmak istenen öge vurgulanýr. Biz konuþurken, önemsediðimiz ögeyi cümlenin herhangi bir yerinde ses tonumuzu yükselterek vurgulayabiliriz. Ancak yazýda bunu yapamayacaðýmýzdan, vurgulamak istediðimiz öðeyi yükleme yaklaþtýrýrýz. Yani cümlede yükleme en yakýn öðe, en çok vurgulanan öðedir.
+
+“Babam bizi dün fuara götürdü.”
+
+cümlesinde yükleme en yakýn olduðu için dolaylý tümleç,
+
+“Babam bizi fuara dün götürdü.”
+
+cümlesinde yükleme en yakýn olduðu için zarf tümleci;
+
+“Babam fuara dün bizi götürdü.”
+
+cümlesinde yükleme en yakýn olduðu için nesne;
+
+“Dün fuara bizi babam götürdü.”
+
+cümlesinde yükleme en yakýn olduðu için özne vurguludur.
+
+   
+
+
+
+
+
+    ARA SÖZ
+
+Cümleyi söylerken söz arasýna sýkýþtýrýlan, bazen bir öðenin açýklayýcýsý, bazen cümle dýþý unsur olan söz veya söz öbeklerine ara söz denir.
+
+“Büyüdüðüm o güzel þehri, Bursa’yý, asla unutamam.”
+
+cümlesinde “Bursa’yý” ara sözü cümlenin nesnesinin açýklayýcýsý olarak kullanýlmýþtýr. Ara söz daima açýkladýðý öðeden sonra gelir.

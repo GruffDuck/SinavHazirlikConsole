@@ -1,0 +1,5 @@
+1)Rasyonel Testi
+2)Oran Orantı Testi
+3)Problem Testi
+4)Olasılık Testi
+5)Mantık Testi

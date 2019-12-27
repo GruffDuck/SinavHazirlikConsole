@@ -1,0 +1,74 @@
+
+        Fotosentez 
+
+Bitki kloroplastlarý, güneþ enerjisini besinlerin yapýsýndaki kullanýlabilir kimyasal enerji formuna dönüþtürür. Besinlerin yapýsýndaki bu kimyasal enerji solunumla açýða çýkarýlarak metabolik etkinliklerde kullanýlýr.
+
+
+Fotosentezle ýþýk enerjisi besinlerin yapýsýndaki kimyasal enerjiye dönüþtürülür. Oksijen gazý üretilir ve atmosferdeki gaz dengesi saðlanýr.
+
+Fotosentezle organik molekül sentezlenmesi sýrasýnda, karbon kaynaðý olarak karbondioksit, hidrojen kaynaðý olarak su kullanýlýr. Açýða çýkan oksijenin temel kaynaðý da sudur.
+
+
+
+      Güneþ Iþýðý
+Iþýk, foton adý verilen enerji yüklü taneciklerden oluþur. Dalgalar halinde yayýlan fotonun oluþturduðu iki ardýþýk tepe arasýndaki mesafeye dalga boyu denir. Ýnsan gözü 380 nm ile 750 nm arasýndaki dalga boyuna sahip ýþýðý görebilir.
+
+
+ 
+Bitkiler fotosentez yaparken güneþin yaydýðý elektromanyetik ýþýnlardan, görünür dalga boyunda olanlarýn fotonlardaki enerjiyi kullanýr.
+
+
+
+
+      Fotosentez Pigmentleri
+Iþýk bir cisme çarptýðý zaman cisim tarafýndan yansýtýlabilir, emilebilir ve cismin içinden geçebilir.
+
+Klorofil çeþitli dalga boylarýndaki ýþýðý emerek bitkide fotosentez olayýnýn gerçekleþmesini saðlayan yeþil renkli bir pigmenttir. Çözünürlük ve ýþýðý soðurma yönüyle farklýlýk gösteren iki çeþit klorofilden klorofil-a, tüm yeþil bitkilerde, klorofil-b ise bazý yeþil bitkilerde ve alglerde bulunur. Her iki klorofil molekülü de mavi ve kýrmýzý dalga boylu ýþýnlarý büyük oranda emerken, yeþil ýþýðý büyük oranda yansýtýr ve geçirir.
+
+Iþýðý emen pigmentler, proteinler ve diðer moleküller kloroplast organelinin tilakoyit zarýnda fotosistem adý verilen birimler halinde düzenlenir. Fotosistemler güneþ ýþýðý aldýklarý zaman uyarýlýr ve faaliyete geçerler.
+
+
+
+
+    Fotosentez Tepkimeleri
+Fotosentez her biri çok sayýda basamaklar içeren iki evrede gerçekleþir. Bu evreler ýþýða baðýmlý tepkimeler ve karbon tutma tepkimeleri þeklindedir.
+
+
+
+     Iþýða Baðýmlý Tepkimeler
+Kloroplastlarýn tilakoid zarýnda (grana) meydana gelir. Iþýk enerjisi ATP ve NADPH formundaki kimyasal enerjiye dönüþtürülür. Kloroplast granalarýnda klorofilin ýþýðý emmesiyle serbest kalan elektronu tutabilecek elektron taþýma sistemi bulunur. 
+
+Bu sistemde elektron bir molekülden diðerine aktarýlýrken açýða çýkan enerji kullanýlarak ATP üretilir. Bu olaya fotofosforilasyon denir.
+
+Fotofosforilasyon tepkimeleri devirsiz fotofosforilasyon ve devirli fotofosforilasyon olmak üzere iki yolla gerçekleþir.
+
+Devirsiz fotofosforilasyonda klorofil-a molekülünün yer aldýðý iki ayrý fotosistem (FS-I ve FS-II) görev alýr.
+
+Devirli fotofosforilasyonda ýþýk, FS-I ve FS-II görev alýr. FS-I'in tepkime merkezinden kopan elektron ilk alýcý tarafýndan tutulur. ETS'ye aktarýlan elektronlar FS-I'in merkezindeki klorofil-a'ya dönerken ATP üretir.
+
+
+
+
+
+     Karbon Tutma Tepkimeleri
+Karbon tutma tepkimeleri kloroplastlarýn stromalarýnda gerçekleþir. Karbon tutma tepkimeleri metabolik enzimlerle yürüdüðünden sýcaklýða karþý duyarlýdýr.
+
+Bu tepkimelerde 1 molekül CO2'nin indirgenip besin yapýsýna katýlabilmesi için tepkimede 3 ATP ve 2 NADPH gereklidir.
+
+
+
+
+     Fotosentez Hýzýný Etkileyen Etmenler
+ 
+Fotosentez hýzý, fotosentezi etkileyen faktörlerin en düþük olanýna göre belirlenir. Buna minimum yasasý denir. Örneðin, CO2 miktarlarýnýn düþük olduðu ortamda ýþýk þiddeti arttýrýlsa bile fotosentez hýzlanmaz. Burada fotosentez hýzýný sýnýrlayan faktör CO2 miktarýdýr.
+
+Fotosentez hýzýný etkileyen faktörler çevresel ve genetik faktörler olarak ikiye ayrýlýr. Çevresel faktörler karbondioksit miktarý, ýþýk, sýcaklýk, mineral tuzlarýdýr.
+
+Çevresel faktörlerden karbondioksit yoðunluðu ve ýþýk þiddeti arttýkça fotosentez hýzý da belirli bir evreye kadar artar. Belli bir noktada bitki maksimum kapasitesini kullanmýþtýr ve artýk fotosentez hýzý artmaz. Sýcaklýk artýþýyla ise belli bir noktaya kadar artan fotosentez belli bir noktadan sonra düþmeye baþlar. Çünkü görev yapan enzimler  zarar görebilir.
+
+Genetik faktörler ise kloroplast sayýsý, yaprak geniþliði, kütiküla kalýnlýðý gibi bitkinin türü ile ilgili olan faktörlerdir.
+
+
+
+     Kemosentez
+Bazý bakteriler inorganik maddelerin oksidasyonu sonucu açýða çýkan enerjiyi kullanarak organik besin sentezler. Bu olaya kemosentez senir. Fotosentezden ayrý olarak güneþ ýþýðýna ihtiyaç duyulmaz. Kemosentetik bakteriler zehirli maddelerin zehirsizleþtirilmesi ve bazý elementlerin doðada devirli olarak kullanýlmasýnda görev alýr.

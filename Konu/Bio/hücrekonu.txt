@@ -1,0 +1,84 @@
+    Hücre
+
+Canlýlarda en küçük yapý ve iþlev birimi hücre dir. Çok hücreli organizmalarýn hücreleri ökaryot, mavi-yeþil alg hücreleri prokaryottur. Ökaryot hücrede çekirdek maddesi sitoplazmadan belirli bir zar ile ayrýlmýþtýr. Ribozom ve diðer sitoplazmik organeller bulunur. Metabolik olaylarýn bir kýsmý sitoplazmada bir kýsmý da bu organellerin içerisinde gerçekleþir. Protistalar, fungiler, bitkiler ve hayvanlar bu tip hücreler taþýyan canlýlardýr. 
+
+Prokaryot hücrede ise çekirdek maddesi sitoplazmadan belirli bir zar ile ayrýlmamýþtýr. Ribozom dýþýnda sitoplazmik organel yoktur. Bütün metabolik olaylar sitoplazmada geçer.
+
+    Hücrenin Yapýsý
+
+Þimdi ökaryot hücrenin yapýsýný ve organellerinin kýsaca iþlevlerini tanýyacaðýz. Ökaryot hücre üç ana bölüme ayrýlarak incelenir. Bu bölümler;
+
+1)Hücre zarý
+2)Sitoplazma
+4)Çekirdek
+
+
+   Hücre Zarý
+
+Kimyasal bileþiminde protein ve yað (lipit) bulunur. Proteinler yerleþim durumuna göre iki çeþittir. Bir kýsmý yað tabakasýnýn içine gömülmüþtür. Lipitler ise genellikle fosfolipitler halinde ve zarýn orta kýsmýnda iki tabaka halinde bulunur. Zarýn bu yapýsýna mozaik zar modeli denir. Hücre zarý madde alýþ veriþini ve dýþ ortamla temasý saðlayan, hücreyi daðýlmaktan ve dýþ etkenlerden koruyan yapýdýr. Hücrenin ihtiyaçlarýna göre farklýlaþýr, fonksiyonlarýna göre þekillenir. Seçici geçirgen olmasý dýþarýdan kontrollü olarak besin almasýna dýþarýya da belli bazý artýklarý vermesine olanak verir. Örneðin dýþarýdan protein deðil ama aminoasit alabilir. 
+
+Hücre zarýnýn diðer bazý özellikleri þunlardýr:
+Yaðda çözünebilen maddeler, çözünemeyen maddelere oranla daha kolay geçerler.
+Nötr tanecikler iyonlardan daha kolay geçer. 
+Kompleks organik moleküller (glikojen, niþasta, selüloz, protein, yað) hücre zarýndan geçemez. 
+Küçük moleküller büyük moleküllerden daha kolay geçer.
+Bir maddenin sitoplazmadaki ve dýþ ortam sývýsýndaki yoðunluðu maddenin zardan geçiþini etkiler. 
+Hücre zarý için belirlenen bu özelliklerin hepsi bütün hücreler için geçerlidir. Ayrýca çekirdek zarý ve sitoplazmik organellerin etrafýný çevreleyen zarlar da birim zar yapýsýnda olduklarý için bu özelliklerin tümünü içerirler. Aþaðýdaki þekilde basitçe bir hücre zarý gösterilmiþtir.
+
+
+
+
+    Hücre çeperi (Selülozik zar)
+
+Bitkisel hücrelerin en dýþ kýsmýnda bulunur. Temel yapý maddesi selülozdur. Bitkinin yaþadýðý ortama göre lignin, süberin ve kitin maddeleri de yapýsýna iþtirak eder. Hücre çeperi ölüdür. Seçici geçirkenlik özelliði yoktur. Madde alýþ veriþi çeper üzerindeki basit geçitlerle saðlanýr. Bu çeper hücrenin daha uzun ömürlü ve dayanaklý olmasýný saðlar.
+
+
+    Mitokondri
+Oksijenli solunum olayýnýn içerisinde geçtiði organeldir. Sitoplazmadaki sayýlarý hücrenin enerji ihtiyacý ile doðru orantýlý bir deðiþim gösterir. Bakteri, mavi-yeþil alg ve memeli alyuvarlarýnda bulunmaz. Çift katlý zar sistemiyle çevrilmiþtir. Ýç zar "krista" denen ve enerji üretim yüzeyini büyüten çok sayýda kývrým oluþturmuþtur. Matriks adý verilen sývý ile doludur. Bu sývýnýn içerisinde mitokondrial DNA, RNA ve ribozom bulunur. Mitokondriler, DNA'dan dolayý kendilerini eþleyebilir ve hücre içindeki sayýlarýný arttýrabilirler. Ýç zarýn üzerinde Krebs çemberi reaksiyonlarýný yürüten enzimler bulunur.
+
+   Plastitler
+Bitkisel hücrelerde deðiþik fonksiyonlarý üstlenecek þekilde özelleþmiþ organellerdir. Klorofil taþýyan ve yeþil renkli olana kloroplast, kýrmýzý, sarý veya turuncu pigment taþýyanlara kromoplast, pigment taþýmayan ve renksiz olanlarýna da lökoplast adý verilir. Görev açýsýndan en önemli plastit çeþidi kloroplasttýr. Bitkilerin ýþýk alabilen yeþil renkli kýsýmlarýnda bulunur. Mitokondriler gibi çift zar sistemiyle çevrilmiþtir. Ýçinde stroma denilen sývý bulunur. Iþýk enerjisinden daha çok faydalanabilmek için granum lamelleri geliþmiþtir. Klorofil molekülleri granumlarýn üzerine yerleþmiþtir. 
+
+Klorofil molekülleri bitkiye yeþil rengi veren moleküllerdir ve ýþýk enerjisini kimyasal enerjiye çevirirler. En önemlileri klorofil a ve klorofil b dir. Kloroplastlarýn içerisinde ayrýca DNA, RNA, ribozom, glukoz ve niþasta molekülleri bulunur. Fotosentez reaksiyonlarý ve bu reaksiyonlarla ilgili enzimlerin tümü kloroplastlarda bulunur. Fotosentezin özet denklemi þu þekildedir. 
+
+
+    Ribozom
+Hücrenin en küçük organelleridir. Etrafýnda birim zar yapýsý mevcut deðildir. Her ribozom biri büyük ve proteinten yapýlmýþ, diðeri ise küçük ve rRNA'dan yapýlmýþ iki alt birimden oluþmuþtur. Bu iki birim birbirine mRNA vasýtasýyla baðlanabilir. Sitoplazmada gruplar halinde, endoplazmik retikulum (ER) zarý üzerinde ve çekirdek zarý üzerinde bulunurlar. Virüsler dýþýndaki bütün canlýlarda ribozom vardýr. Protein ve enzim sentezinin üzerinde yapýldýðý organeldir.
+
+    Lizozom
+Tek tabakalý zarla çevrilmiþ, içerisinde karbonhidrat, yað ve protein gibi maddeleri parçalayan enzimler bulunan keseciklerdir. Bu enzimler ribozomlar üzerinde sentezlenir, endoplazmik retikulum veya golgiden kaynaklanan torbacýklar halinde sitoplazmaya verilirler. Lizozomlarýn parçalanmasý ya da tahrip olmasý halinde dýþarýya çýkan enzimler organik molekülleri parçalayarak hücrenin ölümüne neden olurlar. Hücreye pinositoz veya fagositoz yoluyla alýnan sindirim kofulundaki besinler lizozomlardan akýtýlan enzimlerle yapýtaþlarýna parçalanýrlar. Bu olaya hücre içi sindirim denir. 
+
+   Sentrozom
+Çekirdeðin yakýnýnda yer alan ve hayvansal hücrelerin büyük bir kýsmýnda bulunan organeldir. Birbirine dik iki silindir halinde görülür. Bu silindirlere sentriol denir. Sentriollerin her biri 3'erli gruplar halinde 9 adet iplikten oluþmuþtur. Sentrozom, hücre bölünmesi sýrasýnda ið ipliklerini oluþturur ve kromozomlarýn kutuplara doðru çekilmesini saðlar. Bazý ilkel bitkilerde de sentrozoma rastlanmýþtýr. Fakat çiçekli bitkilerde sentrozom bulunmaz. 
+
+    Koful
+Ýçi sývý dolu organellerdir. Yaptýklarý görevlere göre adlandýrýlýrlar. Besin kofulu özellikle tek hücrelilerde bulunur. Pinositoz ve fagositoz ile alýnan besinler besin kofulunda yer alýr. Bitkilerde buna benzer kofullar artýk maddeleri ve renk pigmentlerini toplar. Hücrenin turgor haline gelmesini saðlar. Vurgan kofullar genellikle tatlý sularda yaþayan tek hücrelilerde bulunur. Bu kofullara kontraktil koful da denir. Fazla suyun dýþarý atýlmasý görevini üstlenirler. Bitkisel hücrelerin kofullarý büyük, sayýlarý azdýr. Hayvansal hücrelerde ise daha çok sayýda ama daha küçük kofullar bulunur. 
+
+   Golgi Aygýtý
+Üst üste gelmiþ tabakalardan oluþmuþtur. Bu tabakalarýn her birine diktiyozom denir. Granülsüz endoplazmik retikulum golgi aygýtlarýný meydana getirir. Çeþitli karbonhidratlarýn, yaðlarýn ve salgý maddelerinin sentezlendiði veya depolandýðý yerlerdir. Salgý yapan hücrelerde golgi aygýtý sayýsý fazladýr. Ergin sperm hücresinde ve kan hücrelerinde golgi aygýtý bulunmaz. 
+
+   Endoplazmik Retikulum (ER)
+Hücre içerisinde uzanan kanal veya borucuklardýr. Hücre içi madde daðýtýmý ile hücrenin mekanik etlilere karþý daha dayanýklý olmasýný saðlar. Çekirdek zarýndan meydana gelir. Üzerinde ribozom taþýyanlarýna granüllü ER, taþýmayanlarýna ise granülsüz ER denir. Granüllü endoplazmik retikulumlarýn çok olduðu hücrelerde protein sentezi fazladýr. 
+
+   Çekirdek
+
+Sitoplazmadan çift katlý zar sistemiyle ayrýlmýþtýr. Ancak prokaryot hücrelerde böyle bir zar yoktur. Dýþ zar endoplazmik retikulumun devamýdýr. Ýç zar ise düz bir yapýdadýr. Ribozomlar dýþ zar yüzeyinde yer alýrlar. Çekirdeðin zar sistemi, çekirdeðin iç ve dýþ ortamý arasýndaki baðlantýyý saðlamak için por (gözenek) denilen delikler oluþturmuþtur. Ýnsanda beynin görevini hücrede çekirdek üstlenmiþtir. 
+
+Kýsaca çekirdek hücrenin yönetim merkezidir. Yapýlan deneylerde çekirdeði çýkarýlan hücrenin bir süre sonra öldüðü görülmüþtür. Çekirdeðin yapýsýný oluþturan diðer kýsýmlar çekirdek özsuyu, çekirdekçik ve kromatin ipliklerdir. Çekirdek özsuyu kimyasal bileþim açýsýndan sitoplazmaya benzer. Çekirdekçik protein ve RNA'dan meydana gelmiþtir. Çekirdekçiðin büyüklüðü canlýnýn ve hücrenin türüne göre deðiþiklik gösterir. Çekirdekçik hücre bölünmesi sýrasýnda tamamen kaybolur. Çekirdekçik ýþýðý kuvvetlice kýran bir bölgedir. Hücre içinde sayýlarý bir veya birkaç tane olabilir. Protein sentezinde büyük rol oynamaktadýr. Protein sentezinin fazla olduðu hücrelerde çekirdekçik büyük veya çekirdekçik sayýsý fazladýr. 
+
+Çekirdekte yer alan kromatiin iplikleri hücrenin en önemli yapýlarýdýr. Her canlýda farklý nitelikte olan bu mikroiplikler hücre bölünmesi sýrasýnda kýsalýp kalýnlaþýr. Bu hallerine kromozom adý verilir. Kromozomlarýn kimyasal yapýsýnda DNA, RNA ve protein bulunur. Dýþ kýsýmlarýnda matriks kýlýf, iç kýsýmlarýnda ise matriks sývýsý bulunur. En önemli özellikleri kalýtýmýn temel birimi olan genleri taþýmalarýdýr. 
+
+Diploid  canlýlarýn vücut hücrelerinde her kromozomdan iki tane bulunur. Bu kromozomlara homolog kromozom adý verilir. Örneðin insanýn vücut hücrelerinde 2n=46 tane kromozom bulunur. Üreme hücrelerinde ise her kromozomdan bir tane bulunur. Bu dip hücrelere haploid veya monoploid hücre denir ve n ile gösterilir. Örneðin insanýn sperm hücresinde n=23 tane kromozom bulunur. 
+
+Kromozomlarýn þekli, büyüklüðü ve sayýsý her tür için sabittir. Fakat türleri farklý olan iki canlýnýn kromozom sayýsý ayný olabilir. 
+Eþeyli yolla üreyen hiçbir canlýnýn kromozomu nitelik açýsýndan baþka bir canlýyla ayný deðildir. 
+Homolog kromozomlarýn ayný genleri karþýlýklý olarak ayný bölgelerde (lokus) bulunurlar. 
+Vücut hücrelerinde ayný kromozomdan bir çift bulunduðundan ayný özelliðe etki eden genlerden de birer çift bulunur. 
+Haploid bazý canlýlar da bulunmaktadýr. Örneðin erkek arýlar haploiddir. Erkek arýlarda her karakter birer genle kalýtýllýr. 
+Bitkisel hücre ve hayvansal hücre arasýndaki farklar
+
+1)Bitkisel hücrelerin en dýþ kýsmýnda selülozdan oluþmuþ bir çeper bulunduðu halde hayvansal hücrelerde bulunmaz. 
+2)Bitkisel hücrelerde bulunan plastitler hayvansal hücrelerde bulunmaz.
+3)Hayvansal hücrelerde ve ilkel bitkilerde görülen sentrozom çiçekli bitkilerde görülmez. 
+4)Bitkisel hücrelerin kofullarý büyüktür ve sayýlarý genellikle bir tanedir. Hayvansal hücrelerde kofullarýn sayýsý birden fazladýr ve kofullarýn hacimleri küçüktür. 
+5)Bitkisel hücrelerde selüloz, niþatsa, lingin, sükroz ve maltoz gibi moleküller bulunur. Hayvansal hücrelerde ise glikojen ve laktoz gibi moleküller yapýya iþtirak eder.

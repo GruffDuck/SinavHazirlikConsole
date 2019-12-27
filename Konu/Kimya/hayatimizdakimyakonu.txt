@@ -1,0 +1,48 @@
+       Hayatýmýzda Kimya
+
+
+Hepimiz gündelik hayatýmýzda kimya ile iç içe yaþýyoruz. Hayatýmýzda kimya denince aklýmýza gelen ilk þey temizlik maddeleri olur. Bunun dýþýnda kimya, gündelik hayatýmýzda birçok alanda karþýmýza çýkabilir. Yapý malzemeleri, kozmetik malzemeleri buna örnek olarak verilebilir. Aþaðýdaki yazýmýzda hayatýmýzda kimya konusu detaylý bir þekilde anlatýlmýþtýr.
+
+  1. TEMÝZLÝK MADDELERÝ
+Ýnsanoðlu eski çaðlardan beri kendisini, çevresini ve kullandýðý eþyalarýný temizlemek için süt, bitki özleri, odun külleri ve killi topraðý kullanmýþtýr. Günümüzde ise temizlik maddesi olarak yaygýn bir biçimde sabun ve deterjan kullanýlmaktadýr. Bunlarýn yaný sýra temizlenecek maddenin cinsine ve özelliðine göre yer yer çamaþýr sodasý ve çamaþýr suyu da temizlik maddesi olarak kullanýlýr.
+
+    Temizlik Maddelerin Yapýsý
+Temizlik maddeleri birçok maddeden oluþan karýþýmlardýr. Bu maddelerin yapýsýnda aktif uçlarýn olduðu görülür.
+
+Sabun ve deterjanlarýn yapýlarý incelendiðinde aktif moleküllerin;
+
+-Çok sayýda karbon atomu içeren uzun moleküllerden oluþurlar.
+-Yapýlarýnda C ve H nin yanýnda Na+, K+ ve SO32- gibi iyonlarýn olduðu görülür.
+-Bir uçlarýnýn suyu seven (hidrofil) diðer uçlarýn ise, suyu sevmeyen (hidrofob) yapýda olduklarý görülür.
+   
+    SABUNLAR
+Sabunlar, hayvansal ve bitkisel yaðlarýn kuvvetli bazlarla (NaOH, KOH) birlikte ýsýtýlmasýndan elde edilen ürünlerdir. Genellikle karbon sayýsý 12, 14, 16 ve 18 olan yaðlarýn bazik ortamda hidrolizlenmesi sonucu oluþan karboksilli asitlerin sodyum veya potasyum tuzlarýna sabun, bu olaya da sabunlaþma denir
+
+
+Sabunlar genel olarak sert ve yumuþak diye iki kýsma ayrýlýr. Sert sabunlar NaOH ile hazýrlanan beyaz sabun, yumuþak sabun ise KOH ile hazýrlanan esmer (arap) sabundur.
+Yumuþak sabunlar suda daha fazla çözündüðünden traþ kremi, sývý sabun yapýmýnda kullanýlýr.
+Hayvansal yaðlar, doymuþ hidrokarbon içerdiklerinden bu yaðlarla yapýlan sabunlar serttir ve suda yavaþ çözünürler. Bitkisel yaðlar (pamuk yaðý, yer fýstýðý yaðý, zeytin yaðý vb.) doymamýþ hidrokarbon içerdiklerinden bu yaðlarla yapýlan sabunlar suda çabuk çözünür ve bol köpük saðlar.
+Sabunun yapýsýna su, kireç, tuz, potasyum klorür, silikatlar, sodyum perboiat ve talk gibi maddeler katýlabilir. Sabun elde edildikten sonra ona istenilen özellikleri verecek (renk, koku, koruyucu madde vb.) katký maddeleri eklenerek paketleme iþlemi yapýlýr.
+
+
+
+      DETERJANLAR
+Kir çözücü anlamýna gelen deterjanlar da sabunun yaptýðý her türlü iþi yapabilmektedir. Lauril alkol ve sülfürik asitin tepkimesinden Lauril hidrojen sülfat ve su oluþur. Oluþan Lauril hidrojen sülfat bileþiði sabunda olduðu gibi NaOH ile tepkimeye sokularak sodyum Lauril sülfat denilen deterjaný oluþturur.
+Sabun ve Deterjanýn Kiri Temizlemesi
+Kumaþ, deri ve bazý yüzeylerdeki çözünebilen maddeler saf su ile çok rahat temizlenebilirken bazýlarýnýn temizlenmesi için su yeterli olmaz. Örneðin, bir yerdeki þeker lekesini sýcak su ile rahat çýkarýrýz. Ancak kumaþtaki yað lekesini kolay çýkaramayýz. Bu durumlarda sabun kullanýlmasý gerekir. Sabunun kimyasal yapýsý yaðlý yüzeylerin temizlenmesini kolaylaþtýrýr. Sabunlarý oluþturan iki ana kýsým vardýr. Bunlar suda çözünmeyen ve hidrofob (su sevmeyen) kuyruk olarak adlandýrýlan alkil grubu. Suda çözünen ve hidrofil (su seven) baþ olarak adlandýrýlan uç kýsmýdýr. Kuyruk kýsmý apolar renkli, baþ kýsmý ise polar yapýlýdýr. Kirli yüzeylerin temizlenmesi için öncelikle kirin yumuþamasý gerekir. Zayýf bir asit ve kuvvetli bir bazdan oluþan sabunlar bazik tuzlardýr. Zayýf asitten gelen anyon, suda hidroliz olarak ortamýn bazik olmasýný saðlar. Bazik ortam, yüzeylerdeki kirlerin yumuþamasýný saðlar.
+
+
+    Sabun ve Deterjanýn Benzeyen ve Ayrýlan Özellikleri
+-Her ikisi de temizleyici ve dezenfekte edicidir.
+-Her ikisinde de polar olan baþ kýsým ile zincir þeklinde apolar olan kuyruk kýsmý bulunur.
+-Her ikisinin de baþ kýsmý baz özelliði gösterir.
+-Deterjanlarýn çoðunluðunun baþ kýsmý ile kuyruk kýsmý arasýnda suda çözünmeyen benzen halkasý bulunur. Sabunlarda bu halka yoktur.
+-Sert sularda sabunlar iyi köpürmezken, deterjanlar iyi köpürür.
+-Deterjanýn yapýsýndaki benzen halkasý doðadaki mikroorganizmalar tarafýndan parçalanamadýðý için çevre kirliliði oluþturmaktadýr.
+-Sabunlar asidik sularla kullanýldýðýnda lavabolarda ve banyolarda kir tabakasýna neden olurlar.
+-Bazik özellikteki sabunlar kumaþlara zarar verirler.
+-Deterjanlar ciltte egzama ve mantar gibi hastalýklara neden olabilmektedir. Ayrýca deterjanla yýkanmýþ bulaþýklar bol su ile temizlenmediðinde sindirim sistemi rahatsýzlýklarýna neden olmaktadýr.
+
+
+
+

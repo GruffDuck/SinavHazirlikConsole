@@ -1,0 +1,58 @@
+Olasýlýk
+
+Olasýlýk, sonucu kesin olmayan olaylarla ilgilenir. Bir zar atýldýðýnda üst yüze gelen 
+noktalarýn sayýsýnýn ne olacaðý gibi þans 
+oyunlarýyla ilgilenen olasýlýk teorisi günümüzde sosyal olaylar ve bilimsel çalýþmalarda da kullanýlmaktadýr.
+
+OLASILIK TERÝMLERÝ
+Bir madeni para havaya atýldýðýnda yazý mý ya da tura mý geleceðini (v.b) tesbit etme iþlemine deney denir.
+
+Bir deneyin her bir görüntüsüne (çýktýsýna) sonuç denir.
+
+Bir deneyin bütün sonuçlarýný eleman kabul eden kümeye örnek uzay ve örnek uzayýn her bir elemanýna örnek nokta denir.
+
+Bir örnek uzayýn her bir alt kümesine olay denir.
+
+Örnek uzayýn alt kümelerinden olan boþ kümeye imkansýz (olanaksýz) olay denir.
+
+Örnek uzayýn bütün elemanlarýný içeren alt kümesine mutlak (kesin) olay denir.
+
+A ve B, E örnek uzayýna ait iki olay olsun.
+A ? B = Ø ise, A ve B olayýna ayrýk olay denir.
+
+OLASILIK FONKSÝYONU
+
+E örnek uzayýnýn bütün alt kümelerinin oluþturduðu kuvvet kümesi K olsun.
+P : K › [0, 1] biçiminde tanýmlanan P fonksiyonuna olasýlýk fonksiyonu denir. 
+A ? K ise P(A) gerçel sayýsýna A olayýnýn olasýlýðý denir.
+
+1) Her A ? K için, 0 ? P(A) ? 1 dir. Yani, A olayýnýn olasýlýðý 0 ile 1 arasýndadýr.
+2) Ýmkansýz olayýn olasýlýðý 0 ve kesin olayýn olasýlýðý 1 dir.
+3) A, B ? K ve A ? B = Ø ise,
+P(A ? B) = P(A) + P(B) dir.
+
+1)P(A)=s(A)/s(E)=Uygun Sonuçlarýn Sayýsý / Olabilecek Durumlarýn Sayýsý
+
+2) A ? B ise P(A) ? P(B) dir.
+3) A’, A nýn tümleyeni olmak üzere,
+P(A) + P(A’) = 1 dir.
+4) P(A ? B) = P(A) + P(B) – P(A ? B)
+5) A, B, C olaylarý E örnek uzayýnýn ikiþer ikiþer ayrýk bütün olaylarý ise,
+(E = A ? B ? C)
+P(A) + P(B) + P(C) = 1 dir.
+
+Ör: 1) n, paranýn atýlma sayýsýný veya para sayýsýný göstermek üzere, örnek uzay 2^n dir.
+Ü 2) n, zarýn atýlma sayýsýný veya zar sayýsýný göstermek üzere, örnek uzay 6^n dir.
+
+BAÐIMSIZ VE BAÐIMLI OLAYLAR
+
+Bir olayýn elde edilmesi, diðer olayýn elde edilmesini etkilemiyorsa bu iki olaya baðýmsýz olaylar denir.
+Eðer iki olay baðýmsýz deðil ise, bu olaylara birbirine baðýmlýdýr denir.
+Ü A ve B baðýmsýz iki olay olsun. A nýn ve B nin gerçekleþme olasýlýðý :
+P(A ? B) = P(A) . P(B) dir.
+
+KOÞULLU OLASILIK
+A ve B, E örnek uzayýnda iki olay olsun. B olayýnýn gerçekleþmiþ olmasý durumunda,
+ A olayýnýn olasýlýðýna, A olayýnýn B ye baðlý koþullu olasýlýðý denir ve P(A \ B) ile gösterilir.
+
+P(A\B)= P(A?B)/P(B), P(B)?0 dýr.

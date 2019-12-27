@@ -1,0 +1,114 @@
+Madde ve Özellikleri
+
+Kütlesi, hacmi ve eylemsizliði olan her þeye madde denir. Buna göre kütle ve hacim maddenin ortak özelliklerindendir. Çevremizde gördüðümüz hava, su, toprak vs. her þey maddedir. Maddeler tabiatta katý, sývý, gaz olmak üzere üç halde bulunurlar.
+
+Katý halde, atomlar ya da moleküller arasýnda çekim kuvveti bir hayli fazladýr ve her maddenin bir þekli vardýr. Maddenin en kararlý hali katý halidir. Sývý halde, moleküller katýya göre daha kararsýzdýrlar ve madde akýþkan özellik kazanmýþtýr. Gaz halinde ise, moleküller arasýnda çekim kuvveti yok denecek kadar azdýr. Maddenin en kararsýz hali gaz halidir.
+
+
+ 
+Elementler
+
+Homojendirler (Özellikleri her yerde aynýdýr).
+Belirli erime ve kaynama noktalarý vardýr.
+Yapý taþý atomdur.
+Kimyasal ve fiziksel yollarla daha basit parçaya ayrýlamazlar.
+Bileþik
+Birden fazla elementin belirli oranlarda bir araya gelerek, kendi özelliklerini kaybedip oluþturduklarý yeni saf maddeye bileþik denir. Örneðin; iki hidrojen (H) atomuyla, bir oksijen (O) atomu bir araya gelerek su bileþiðini (H2O) oluþturur.
+
+
+
+Bileþikler
+
+Homojendirler.
+Belirli erime ve kaynama noktalarý vardýr.
+Fiziksel yollarla bileþenlerine ayrýlamazlar.
+Yapý taþý moleküldür.
+Beliþiði oluþturan elementler sabit kütle oranýyla birleþirler. Bu oran deðiþirse baþka bir bileþik oluþur.
+Kimyasal özellikleri kendisini oluþturan elementlerin özelliðine benzemez.
+Formüllerle gösterilirler.
+Yapýsýnda en az iki cins atom vardýr.
+
+
+
+Karýþým
+Birden fazla maddenin her türlü oranda (rastgele oranlarla) bir araya gelerek, kimyasal özelliklerini kaybetmeden oluþturduklarý topluluða karýþým denir. Karýþýmda maddeler fiziksel özelliklerini kaybedebilirler.
+
+
+
+Karýþýmlar
+
+a. Homojen karýþým
+Özellikleri her yerde ayný olan karýþýmlardýr. Örneðin; çözeltiler, alaþýmlar, gaz karýþýmlarý vs.
+
+b. Heterojen Karýþým
+Özellikleri her yerde ayný olmayankarýþýmlardýr. Aklýnýza gelen basit karýþýmlarýn çoðu heterojendir. Heterojen karýþýmlar süspansiyon ve emülsiyon olmak üzere ikiye ayrýlýr.
+
+Süspansiyon: Katý + Sývý heterojen karýþýmlarýn özel adýdýr. Bir katýnýn sývý içinde çözünmeden kalmasýna denir.
+
+
+Emülsiyon: Sývý + Sývý heterojen karýþýmlarýn özel adýdýr. Zeytin yaðý su karýþýmý bir emülsiyondur.
+
+
+Karýþýmlarýn Özellikleri
+
+
+Karýþýmlarda maddeler kendi özelliklerini korurlar.
+Karýþýmlar fiziksel yollarla bileþenlerine ayrýlabilirler.
+Erime ve kaynama noktalarý sabit deðildir.
+Homojen ya da heterojen olabilirler.
+Yapýsýnda en az iki cins atom vardýr.
+Saf deðildirler.
+Formülleri yoktur.
+Maddelerin birleþmesinde belirli bir oran yoktur.
+Maddedeki Deðiþmeler
+
+
+a. Fiziksel Deðiþmeler
+Maddenin dýþ yapýsýyla ilgili özelliklerine fiziksel özellik, dýþ yapýsýyla ilgili deðiþmelere de fiziksel deðiþme denir. Bir maddenin rengi, kokusu, tadý gibi özellikleri fiziksel özellikleridir. Bu özelliklerin deðiþmesi fiziksel deðiþmedir.
+
+
+b. Kimyasal Deðiþmeler
+Maddenin iç yapýsýyla ilgili deðiþmelerdir. Kimyasal deðiþmelerde atomlarýn çekirdek yapýsý deðiþmez (radyoaktif bozunmalar hariç). Elektronlar alýnýr, verilir ya da ortak olarak kullanýlýr. Kimyasal reaksiyonlarda kütle korunur.
+
+
+
+Ayýrt Edici Özellikler
+Miktara baðlý olmayan, sadece o maddeye has olan özelliklere ayýrt edici özellikler denir.
+
+a. Özkütle (Yoðunluk)
+Bir maddenin birim hacimdeki kütlesidir. d = M/V olarak ifade edilir. Birçok madde için birim gr/cm3'tür. Yani bir maddenin 1 cm3'nün kütlesi o maddenin özkütlesidir.
+
+ Fakat bazý durumlarda yoðunluk ayýrt edici özellik olmayabilir. Yani birkaç madde ayný yoðunluða sahip olabilirler.
+
+b. Erime ve Kaynama Noktalarý
+Saf maddeler için ayýrt edici özelliktir. Element ve bileþiklerin belirli erime ve kaynama noktalarý vardýr. Fakat saflýk bozulduðunda erime ve kaynama noktalarýnýn sabitliði bozulur. Mesela tuzlu su, saf suya göre daha yüksek sýcaklýkta kaynar. Kaynama süresince sýcaklýðý artar. Tuzlu su yine normal suya göre daha düþük sýcaklýkta donar.
+
+Bir gaz maddenin, sýva hale dönüþtüðü sýçaklýða yoðunlaþma noktasý denir. Buna göre; kaynama noktasý ile yoðunlaþma noktasý eþittir diyebiliriz.
+
+c. Çözünürlük
+Belirli bir sýçaklýkta 100 gram çözücüde çözünebilen maksimum madde miktarýdýr. Her maddenin deðiþik çözücülerde çözünürlüðü farklýdýr. Genelleme yapmak gerekirse; polar maddeler polar çözücülerde, apolar maddeler ise apolar çözücülerde daha iyi çözünür. Katýlarýn çözünürlüðü sýcaklýðýn artmasýyla genellikle artarken, gazlarýn çözünürlüðü sýcaklýðýn artmasýyla azalýr. Bazý katýlarýn katýlarýn çözünürlüðü sýcaklýkla deðiþmezken, bazýlarýnýn çözünürlüðü sýcaklýk arttýkça azalýr.
+
+d. Esneklik
+Dýþardan bir kuvvetin etkisiyle maddenin esneme miktarýdýr. Katýlar için ayýrt edici bir özelliktir. Sývý ve gazlar için ayýrt edici deðildir.
+
+e. Genleþme
+Isý etkisiyle katý ve sývýlarýn hacmindeki artma oranýdýr. Gazlar için kesinlikle ayýrt edici özellik olamaz. Çünkü bütün gazlar sýcaklýk karþýsýnda ayný oranda genleþirler.
+
+f. Öz ýsý
+Bir maddenin 1 gramýnýn sýcaklýðýný 1 °C arttýrmak için gerekli olan ýsý miktarýdýr. Maddeler için ayýrt edici bir özelliktir. Bir maddenin katý, sývý ve gaz hallerinin her biri için öz ýsýsý farklýdýr.
+
+g. Ýletkenlik
+Maddenin elektrik akýmý iletkenliklerine bakarak da ayýrabiliriz. Bununla ilgili þu noktalarýn bilinmesinde fayda vardýr;
+
+Ýyonlu çözeltiler (Asit, baz, tuz çözeltileri) elektrik akýmýný iletirler.
+Moleküler çözeltiler (Þekerli su, alkol + su çözeltileri) elektrik akýmýný iletmezler.
+Metaller elektrik akýmýný iletir. Ametaller iletmez. Metalin elektirii iletmesi fiziksel bir özelliktir.
+
+
+
+
+
+
+
+
+

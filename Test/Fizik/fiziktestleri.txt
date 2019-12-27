@@ -1,0 +1,5 @@
+1)Fizik Bilimine Giriþ Testi
+2)Atom Altý Paçacýklar Testi
+3)Madde Ve Özellikleri Testi
+4)Özel Görelilik Testi
+5)Isý Ve Sýcaklýk Testi

@@ -1,0 +1,96 @@
+Rasyonel Sayýlar
+a ve b tam sayý, a/b olmak üzere, þeklinde ifade edilen sayýlara rasyonel sayý veya kesir denir.
+
+
+ a
+--- (Tanýmsýzdýr)
+ 0 
+
+
+KESÝR
+Bir birimin bölündüðü eþit parçalardan birini veya bir kaçýný göstermeye yarayan sayýlara kesir denir.
+
+KESÝR ÇEÞÝTLERÝ
+1. Basit Kesir: Ýþaretine bakýlmaksýzýn payý paydasýndan küçük olan kesirlere basit kesir denir.
+
+          a     2     5
+  a<b => --- , --- , ---  gibi.
+          b     
+3     8
+
+Bileþik Kesir:
+Ýþaretine bakýlmaksýzýn payý paydasýndan küçük olmayan (büyük veya eþit olan) kesirlere bileþik kesir denir. 
+Bileþik kesirler tam sayýlý kesir diye de adlandýrýlabilir. Tam sayýlýr kesir, önde tam sayý olan kesirdir.
+
+	 5    15
+a>b =>  --- , ---  gibi.
+	 2     8	
+
+Tam Sayýlý Kesir: 
+Herhangi bir sayma sayýsý ile birlikte yazýlabilen kesirlere tam sayýlý kesir denir.
+
+    3	      7
+  2---   ,  4---  gibi.
+    5         8
+
+
+RASYONEL SAYILARDA ÝÞLEMLER:
+
+Toplama – Çýkarma Ýþlemi
+
+a/b + c/d = (a+c)/b
+
+a/b - c/d = (a-c)/b
+
+
+
+Çarpma – Bölme Ýþlemi
+
+(a/b) . (c/d) = (a.c) / (b.d)
+
+
+
+Ýþlem Önceliði
+
+Toplama, çýkarma, çarpma, bölme ve üs alma iþlemlerinden bir kaçýnýn birlikte bulunduðu rasyonel sayýlarda iþlemler, aþaðýdaki sýraya göre yapýlýr.
+
+1) Parantezler ve kesir çizgisi iþleme yön verir.
+2) Üslü iþlemler varsa sonuçlandýrýlýr.
+3) Çarpma – bölme yapýlýr.
+4) Toplama – çýkarma yapýlýr.
+
+NOT: Toplama ile çýkarma iþlemi kendi arasýnda öncelik taþýmaz. Ayný þekilde çarpma ile bölme iþlemi de kendi arasýnda öncelik taþýmaz. Özelikle çarpma ile bölme de öncelik söz konusu ise bu parantezle belirlenmiþtir.
+
+ONDALIK KESÝR
+
+Bir rasyonel sayýnýn payýný paydasýna böldüðümüzde bu rasyonel sayýnýn ondalýk açýlýmýný buluruz. Bu ondalýk açýlýma ondalýk kesir denir.
+
+
+1. Ondalýk Kesir
+
+abcd/1000 = a,bcd = a+ (b/10) + (c/100) + (d/1000) 'dir.
+
+
+
+2. Ondalýk Kesirlerde Ýþlemler:
+
+a. Toplama – Çýkarma: Ondalýk kesirler toplanýrken, virgüller alt alta gelecek þekilde yazýlýr ve doðal sayýlarda toplama – çýkarma iþleminde olduðu gibi toplama – çýkarma iþlemi yapýlýr. Sonuç, virgüllerin hizasýndan virgülle ayrýlýr
+b. Çarpma: Ondalýk kesirlerin çarpýmý yapýlýrken, virgül yokmuþ gibi çarpma iþlemi yapýlýr. Sonuç, çarpýlan sayýlarýn virgülden sonraki basamak sayýlarýnýn toplamý kadar, saðdan sola doðru virgülle ayrýlýr.
+c. Bölme: Ondalýk kesirlerin bölme iþlemi yapýlýrken, bölen virgülden kurtulacak biçimde 10 un kuvveti ile çarpýlýr. Bölünen de ayný 10 un kuvveti ile çarpýlarak bölme iþlemi yapýlýr.
+
+
+RASYONEL SAYILARDA SIRALAMA
+
+Pozitif kesirlerde sýralama yapýlýrken aþaðýdaki yollardan biri kullanýlýr.
+
+1. Yol
+Paydalarý eþit olan (eþitlenen) kesirlerden payý en büyük olan diðerlerinden daha büyüktür.
+
+2. Yol
+Paylarý eþit olan (eþitlenen) kesirlerden paydasý en küçük olan diðerlerinden daha büyüktür.
+
+3. Yol
+Payý ile paydasý arasýndaki farký eþit olan, pozitif basit kesirlerde, payý en büyük olan diðerlerinden daha büyüktür.
+Payý ile paydasý arasýndaki farký eþit olan, bileþik kesirlerde, payý en büyük olan diðerlerinden daha küçüktür.
+Yukarýda verilen yöntemler pozitif kesirlerde geçerlidir. Negatif kesirlerde ise durum tersinedir.
+

@@ -1,0 +1,175 @@
+Soru – 1 
+
+Aþaðýdakilerden hangisi eski Yunanlýlara göre 4 temel elementten biri deðildir?
+
+A) Hava
+
+B) Toprak
+
+C) Su
+
+D) Bitki
+
+E) Ateþ
+
+
+
+Soru – 2 
+
+Tüm varlýklarýn bir "öz" den oluþmuþ olduðu fikri aþaðýdaki bilim adamlarýndan hangisine aittir?
+
+A) Anaxagoras
+
+B) Empedokles
+
+C) Thales
+
+D) Aristo
+
+E) Democritus
+
+
+
+Soru – 3 
+
+Aþaðýdakilerden hangisi Dalton Atom Modeline ait deðildir?
+
+A) Atomlar içi dolu sert küre yapýsýndadýr.
+
+B) Atomlar parçalanamaz ve bölünemez.
+
+C) Farklý element atomlarý belirli tamsayý oranlarýnda birleþerek bileþikleri oluþtururlar.
+
+D) Atomlarýn üzerinde bulunan kancalar bileþik oluþturan atomlarýn birbirine tutunmasýný saðlar.
+
+E) Atomlar pozitif yüklü madde ile tam doludur
+
+
+
+Soru – 4 
+
+Aþaðýdakilerden hangisi Rutherford Atom Modeline ait deðildir?
+
+A) Atomlarda çekirdek denilen bir yapý vardýr.
+
+B) Elektronlar normal enerji seviyelerinde kararlý yapýda olup enerji yaymazlar.
+
+C) Atom kütlesinin büyük bir kýsmý çekirdekte toplanmýþtýr.
+
+
+ 
+D) Atomun büyük bölümü boþluklu yapýdadýr ve bu boþluklara elektronlar yerleþmiþtir.
+
+E) Atomlar pozitif yüklü çekirdek ile negatif yüklü elektronlardan oluþmuþtur.
+
+
+
+Soru – 5 
+
+Aþaðýdakilerden hangisi atomlarýn uyarýlma yollarýndan biri deðildir?
+
+A) Elektron ile uyarma
+
+B) Isýtma ile uyarma
+
+C) Foton ile uyarma
+
+D) Atomlarýn çarpýþtýrýlmasý
+
+E) Hareket enerjisi ile uyarma
+
+
+
+Soru – 6 
+
+n = 3 seviyesine uyarýlmýþ bir atomun elektronu n = 2 seviyesine düþüyorsa bu elektronun yaydýðý ýþýmaya ne ad verilir?
+
+
+
+A) Ýkincil enerji
+
+B) Balmer serisi
+
+C) Mor ötesi
+
+D) Kýzýlötesi
+
+E) Alfa ýþýný
+
+
+
+Soru – 7 
+
+Atomaltý parçacýklar ile ilgili olarak aþaðýdakilerden hangisi yanlýþtýr?
+
+A) Temel parçacýklar hadronlar ve leptonlardýr.
+
+B) Baryonlarýn kütleleri proton kütlesine eþit veya daha büyüktür.
+
+C) Kaon bir mezon parçacýðýdýr.
+
+D) Nötron parçacýðý mezon grubundadýr.
+
+E) 6 adet lepton vardýr.
+
+
+
+
+
+
+Soru – 8 
+
+Atomlarýn temel haldeki bir elektronlarýnýn sahip olduðu enerjiye ne ad verilir?
+
+A) Temel enerji
+
+B) Ýyonlaþma enerjisi
+
+C) Uyarýlma enerjisi
+
+D) Baðlanma enerjisi
+
+E) Iþýma enerjisi
+
+
+
+Soru – 9 
+
+Bir atomda 2. Enerji düzeyinde yer alan bir elektronun bulunduðu yörüngedeki baðlanma enerjisi -7,6 eV, 5. Enerji düzeyinde bulunan uyarýlmamýþ bir elektronun baðlanma enerjisi ise -1,2 eV dur.
+
+Buna göre bu atomda 2. Enerji düzeyindeki bir elektronu 5. Enerji düzeyine taþýmak için verilmesi gereken enerji kaç eV’dur?
+
+A) 6,4
+
+B) 8,8
+
+C) 12,4
+
+D) 17,6
+
+E) 19,2
+
+
+
+Soru – 10 
+
+Bir X atomunda temel halde bulunan bir elektronun baðlanma enerjisi – 24,5 eV, n = 2 enerji seviyesindeki baðlanma enerjisi – 12, 2 eV, n = 3 enerji seviyesindeki baðlanma enerjisi – 8,4 eV dur.
+
+Bu atom 18,2 eV enerjiye sahip bir elektron ile bombardýman ediliyor.
+
+
+ 
+Elektron temel haldeki elektronu n = 3. Seviyeye çýkararak atomu terkediyor.
+
+Buna göre temel haldeki elektronu uyaran elektronun atomdan çýkýþ enerjisi kaç eV dir?
+
+A) 0
+
+B) 2,1
+
+C) 3,8
+
+D) 12,3
+
+E) 15
+

@@ -1,0 +1,50 @@
+    Hücresel Solunum 
+Hücrelerde yürütülen metabolik faaliyetler için enerjiye ihtiyaç duyulur. Bu enerjiyi hücre solunumla karþýlar. Solunum yapmayan bir canlý yaþayamaz. Temelde solunum enerji elde etmek amacýyla karbonhidrat,yað ve protein gibi moleküllerin parçalanmasý olayýdýr. Hücresel solunum oksijenin kullanýlýp kullanýlmamasýna göre oksijensiz solunum ve oksijenli solunum olmaz üzere ikiye ayrýlýr.
+
+
+    Oksijensiz Solunum
+Solunum sýrasýnda oksijenin kullanýlmadýðý solunum türüne denir. Anaerob solunum olarak da adlandýrýlýr. Oksijensiz ortamda yaþamlarýný sürdüren bakteriler oksijensiz solunum yaparlar. Normalde oksijenli solunum yapan canlýlar da oksijenin yetersiz olduðu durumlarda oksijensiz solunum yapabilirler.
+
+Glukozun enzimler yardýmýyla pirüvik aside kadar parçalanýp ATP üretilmesi olayýna glikoliz denir. Ortamda oksijen olsun veya olmasýn bütün solunum reaksiyonlarýnda glikoliz kýsmý ortaktýr. Eðer ortamda oksijen yoksa veya yeterli deðilse glikoliz sonucunda oluþan pirüvik asit etil alkol veya laktik asit gibi moleküllere kadar parçalanýr. Bu olaya da fermantasyon adý verilir. 
+
+
+
+    Glikozun Fermantasyonu
+
+Glikozun fermantasyonla parçalanma reaksiyonlarý glikozun aktifleþmesiyle baþlar. Bu olay için 2 ATP enerji harcanýr. Fermantasyon reaksiyonlarýnýn büyük bir kýsmý glikolizden ibarettir. Glikoliz birbirini takip eden ve her biri ayrý bir enzimle kontrol edilen 9 basamaktan oluþur. Bu basamaklar sonucunda pirüvik asit elde edilir. 
+
+Oksijensiz þartlarda pirüvik asit iki yönde deðiþikliðe uðrar. Þayet pirüvik asitten alkol meydana geliyorsa buna alkol fermantasyonu, laktik asit meydana geliyorsa buna da laktik asit fermantasyonu denir. Laktik asit fermantasyonu denklem olarak þu þekilde ifade edilebilir:Görüldüðü gibi alkol fermantasyonunda farklý olarak karbondioksit açýða çýkmaktadýr. Alkol fermantasyonu çoðunlukla bakterilerde olmak üzere maya hücrelerinde ve bazý bitkilerde görülür. Bakterilerde etil alkolün yaný sýra asetik asit, aseton ve bütanol gibi maddeler de açýða çýkabilir. 
+
+Glikoliz ve fermantasyon tamamen sitoplâzmada gerçekleþir. Toplam 4 ATP elde edildiði halde baþlangýçta 2 ATP harcandýðý için 2 ATP üretim yapýldýðý kabul edilir. Bu reaksiyonlarda glikoz tamamen parçalanmadýðý için açýða çýkarýlan enerji ve ATP miktarý azdýr.
+
+
+
+   Oksijenli Solunum
+Solunum esnasýnda oksijenin kullanýldýðý solunum çeþididir. Aerob solunum da denir. Hücrelerin mitokondri organelinde gerçekleþir. Oksijenli ortamda monosakkaritler, yað asitleri, gliserol ve bazý aminoasitler kilit bileþik olan asetil koenzim-A'ya dönüþtükten sonra krebs çemberi reaksiyonlarýna girerler. Sadece bazý aminoasitler bu dönüþümü yaþamadan krebs çemberi reaksiyonlarýna direk olarak girerler. Oksijenli solunumda baþlýca üç temel safha vardýr.
+
+1) Glikoliz
+2)Krebs çemberi
+3)Oksidatif fosforilasyon
+
+Bu safhalardan olan glikoliz oksijensiz solunumdakiyle aynýdýr. Oksijenli solunumda da öncelikle sitoplâzmada glikoliz reaksiyonlarý gerçekleþir. Bunun sonucunda 2 ATP elde edilir. Glikoliz sonucu oluþan pirüvik asit de asetil koenzim-A'ya dönüþerek krebs çemberine dahil olur. Glikoliz evresinden özetle bahsettik. Þimdi de sonraki iki safhayý inceleyelim. 
+
+
+
+
+
+
+    Krebs Çemberi
+
+Bu safha glikolizle meydana gelen pirüvik asidin oksijenin varlýðýnda asetil koenzim-A ve karbondiaksite dönüþmesinden sonra baþlar. Mitokondrinin içerisinde gerçekleþir. Ýlk oluþan ara bileþik sitrik asit olduðu için sitrik asit çemberi de denir. Krebs çemberinde görev yapan enzimler mitokondrinin iç zarýna gevþek olarak baðlanmýþlardýr ya da mitokondri sývýsýnda toplanmýþlardýr. Çember þeklindeki bir döngü ile bileþikler birbirlerine dönüþerek geri kalan süreçte kullanýlacak maddeler elde edilir. 
+
+Krebs çemberi sonucunda 6 tane NADH2 ve 2 tane FADH2 oluþur. Bunlarýn taþýdýðý elektronlar ve hidrojenler ETS'ye aktarýlýp yükseltgenme durumuna geçer ve ATP üretilir. 
+
+
+
+
+
+    Oksidatif Fosforilasyon
+
+Oksijenli solunumun glikoliz ve krebs çemberi reaksiyonlarý sýrasýnda doðrudan üretilen ATP miktarý oldukça azdýr. Bu reaksiyonlar dizisinin çeþitli basamaklarýnda ara bileþikler oluþurken hidrojen atomlarý bu bunlarýn yüksek enerjili elektronlarý ayrýlýr. Bu hidrojenler NAD ve FAD tarafýndan tutularak mitokondrinin yüzeyine tutunmuþ koenzimlerin oluþturduðu elektron taþýma sistemine aktarýlýr. Bu sistemde yükseltgenme ve indirgenme reaksiyonlarý ortaya çýkan enerjinin bir kýsmý sisteme býrakýlýr. Bu enerjinin bir bölümü ýsý enerjisine dönüþüp kaybolurken bir kýsmý da ADP molekülüne fosfat ekleyerek ATP üretilmesinde kullanýlýr. Dolayýsýyla oksijenli solunumda ATP verimi oldukça yüksektir. Ýþte yükseltgenme reaksiyonlarý ile bu þekilde ATP üretilmesi olayýna oksidatif fosforilasyon denir.
+
+Oksijenli solunumun baþtan sona bütün evrelerinde toplam 40 ATP üretilmesine raðmen baþta glikolizde harcanan 2 ATP'yi düþersek bir glikoz molekülünden net olarak 38 ATP elde edildiðini söyleyebiliriz

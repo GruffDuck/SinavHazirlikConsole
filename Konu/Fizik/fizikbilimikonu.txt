@@ -1,0 +1,228 @@
+FÝZÝK BÝLÝMÝNE GÝRÝÞ
+
+FÝZÝK: Madde enerji etkileþimini inceleyen, doða olaylarýný araþtýran bilim dalýna FÝZÝK denir. Doðadaki olaylarý incelerken deney sonuçlarý ile güçlendirip mantýklý bir þekilde açýklar.
+
+
+
+Fizik Bilimi:
+
+Sýnanabilir
+Doðrulanabilir
+Yanlýþlanabilir
+Delillere dayanýr
+
+
+
+Fizik Biliminin Alt Dallarý
+
+Mekanik: Kuvvet, hareket ve enerji iliþkisini inceler. Iþýk hýzýndan çok daha küçük hýzlardaki cisimlerin hareketini inceler.
+
+
+Elektrik: Elektrik yükünü, elektrik akýmýný, yükün hareketsiz durumunu, potansiyelini, elektrik alan ve elektrik kuvveti inceler.
+
+
+Manyetizma: Mýknatýs, manyetik alan, manyetik kuvvet ve bunlarýn etkileþimini araþtýrýr ve bunlarýn elektrik sistemlerindeki etkilerini araþtýrýr.
+
+
+
+NOT: Elektrik ve manyetizma alt dallarý, elektromanyetizma olarak da bilinir.
+
+
+Elektromanyetizma: Sabit veya hareket halindeki elektrik yüklerinin manyetik ve elektrik alanlarla etkileþimi.
+
+
+Optik: Iþýðýn yapýsýný ve Iþýk olaylarýný inceler. Iþýðýn yapýsý, ýþýkta kýrýlma, yansýma, kýrýným ve giriþim olaylarý, mercek, dürbün, mikroskop ve teleskop gibi araçlarýn yapýmý.
+
+
+Termodinamik: Isý enerjisini, madde içinde yayýlmasýný inceler. Isý ve sýcaklýk olaylarýný ve ýsýnýn maddeyle etkileþimini inceler. Enerji, enerji deðiþimleri, enerji aktarýmlarý, enerji dönüþümleri, ýsý, sýcaklýk, genleþme ve bunlar arasýndaki iliþkiler.
+
+
+Atom fiziði: Atomun molekül yapýsýný ve etkileþimini, atom altý parçacýklarý inceler.  Atomlarýn etkileþimleri, atomun, moleküllerin yapýsý, enerji düzeyleri, dalga fonksiyonlar ve elektromanyetik geçiþler.
+
+
+Nükleer fizik: Atom çekirdeðinin yapýsýný,  kararsýz çekirdeklerin nasýl ýþýma yaptýðýný, Atom çekirdeði ve radyoaktif elementleri inceler. Çekirdekte bulunan proton ve nötronlarýn etkileþimleri, nötron ve protonlarý bir arada tutan nükleer kuvvetler, çekirdeðin saldýðý ýþýmalar ve bunlarýn etkileri.
+
+
+Katýhal fiziði: Yoðun haldeki maddelerin, elektriksel, manyetik, esneklik özelliklerini ve özellikle kristal yapýlarýný inceler.
+
+
+Yüksek enerji ve plazma fiziði: Yüksek enerjili parçacýklarýn etkileþimini ve maddenin plazma durumunu inceleyen modern fizik dalýdýr. Maddenin temel yapýsý ve temel yapý taþlarýnýn birbirleriyle etkileþimini inceler.
+Fiziðin diðer bilimler ve teknoloji ile iliþkisi
+
+Fiziðin geliþimi teknolojiye katký saðlarken, teknolojinin geliþimi de fiziðe katký saðlamaktadýr. Fizik bilimi; kimya, biyoloji, týp, gibi birçok bilim dalý ile iliþkilidir.
+
+Fizik bilim dalý ile uðraþan fizikçiler, araþtýrmalarýný yaparken baþlýca 3 metottan; gözlem, deney ve ölçümden faydalanýrlar.
+
+
+
+Bilimsel yöntem
+
+Fizikte birçok yöntem ile bilimsel bilgiye ulaþýlabilir. Gözlem, deney, düþünce deneyi gibi.
+
+Gözlem: Bir olayýn duyu organlarý ve ölçme araçlarý kullanýlarak incelenmesidir.
+
+Nitel gözlem: Beþ duyu organý ile yapýlan gözlemlere denir. Sonuçlar kesin deðildir.
+Nicel gözlem: Ölçüm araçlarý ile yapýlan, sayý ve birimle ifade edilen gözlemlere denir.
+Deney: Beþ duyu organý ile araç gereç kullanýlarak yapýlan kontrollü gözleme Deney denir.  Deneyler yaparak bilimsel olaylarý açýklamaya çalýþan bilim insanlarý; baðýmsýz deðiþken, baðýmlý deðiþken ve kontrol edilebilen deðiþkenleri kullanarak sonuca ulaþmaya çalýþýrlar.
+
+Kontrollü deney: Baðýmlý deðiþken, baðýmsýz deðiþken ve kontrollü deðiþkeni belirlenerek deðiþkenler arasýndaki iliþkilerin ortaya çýkarýldýðý deneylerdir.
+
+Ölçme: bir fiziksel büyüklüðün kendi cinsinden birim kabul edilen bir ölçü ile karþýlaþtýrýlmasýdýr. Fiziksel bir niceliðin büyüklüðünün uygun aletlerle belirlenmesi iþlemine ölçme denir.
+
+Ölçmede hata: Bir ölçme iþleminde elde edilen sonuçla gerçek deðer arasýndaki farka hata denir.
+
+Bu hatalar;
+
+Ölçme yönteminden
+Ölçme aracýndan
+Ölçümün yapýldýðý ortamdan
+Ölçümü yapan kiþiden
+Kaynaklanan hatalar olabilir.
+
+Gözlem, deney ve ölçüm yapýlýrken fiziksel büyüklüklerde kullanýlýr. Bunlar Temel ve Türetilmiþ Büyüklükler olmak üzere ikiye ayrýlýrlar.
+
+
+
+BÝLÝMSEL YÖNTEM
+
+Bilimsel bir problemin çözümünde,
+
+Problem belirlenir
+Gözlem yoluyla Veriler toplanýr
+Hipotez kurulur ( geçici çözüm yolu)
+Hipoteze dayalý tahminler yapýlýr
+Gözlem ve Kontrollü deneyler yapýlýr ve sonuçlar alýnýr
+Bulgular deðerlendirilerek hipotezle uyumu araþtýrýlýr hipotez desteklenmiyor ise yeni hipotez kurulur. Destekliyor ise geçerlilik kazanýr.
+Sonuçlar açýklanýr ( Bilimsel Bilgi )
+
+
+
+Hipotez: Bir problemin çözümü için verilere dayalý olarak önerilmiþ geçici çözüm yoludur. Gözlem ve deneylerle desteklendikçe hipotezin geçerliliði ve güvenilirliði artar.
+
+Teori: Gözlenebilen bir doða olayý ile ilgili bilimsel bilgilerle yapýlan genellemelere teori denir. Örneðin ýþýk teorisi, ýþýkla ilgili bilimsel bilgiler kullanarak ýþýðýn yapýsý, davranýþlarý ve özelliklerini açýklayan genellemeler yapar. Teoriler esnek yapýlýdýrlar, yeni çalýþmalar doðrultusunda geniþleyebilir ya da daralabilirler.
+
+Geçmiþte kurulan teorilere örnek olarak “ Atom teorileri, Elektromanyetik Teori, Gazlarýn Kinetik Teorisi”  gibi.
+
+Kanun (Yasa): Doðruluðu kanýtlanmýþ varsayýmlara ya da ayný koþullarda tekrarlandýðýnda herkes tarafýndan ayný sonuçlarýn alýndýðý deneylerle desteklenen uluslararasý kurallara yasa denir.
+
+Belirli þartlarda bir nedene baðlý olarak ayný sonuçlar ediliyorsa elde edilen bilgi evrensel geçerlilik kazanýr. Ve artýk kanun ( yasa) olur. Yansýma kanunu, kýrýlma kanunu, kütle çekim kanunu, Newton’un hareket kanunlarý gibi.
+
+Teori ve Yasalar mutlaka bilimsel desteðe sahip olmalýdýr. Ancak hipotezler teoriye, teorilerde yasaya dönüþmez.
+Teoriler açýklayýcý, kanunlar ise daha çok tanýmlayýcý özellik taþýr.
+ 
+
+Veri: Bir olayýn doðal ortamýnda ya da özelliklerini denetleyebilen bir ortamda bir ortamda yapýlan gözlemlerin sonucudur.
+
+Kontrollü Deney: Deney sonucunu etkileyecek koþullardan birini deðiþtirip diðerlerini sabit tutacak yapýlan deneydir.
+
+
+
+FÝZÝKSEL BÜYÜKLÜKLER
+
+Temel Büyüklükler: Kendi baþýna ifade edildiðinde bir anlamý olan büyüklüklerdir. Kütle, uzunluk, zaman, sýcaklýk, akým þiddeti, madde miktarý( mol).
+
+Türetilmiþ büyüklükler:  Hýz, ivme, enerji, yoðunluk (özkütle), hacim gibi büyüklüklerdir.
+
+Skaler Büyüklükler:  Sadece sayý ve birimle ifade edilebilen büyüklüklerdir. Zaman, uzunluk, kütle, enerji vb.
+
+Vektörel Büyüklüklerdir: Büyüklük, birim, yön ve doðrultusu belli olan büyüklüklerdir. Kuvvet, hýz, ivme, elektrik alan, manyetik alan vb.
+
+
+
+FÝZÝKTE MODELLEME VE MATEMATÝK
+
+Bir olayýn, karmaþýk bir sistemin, soyut bir kavramýn, görülemeyecek kadar küçük yapýlarýn veya kavramlar arasýndaki iliþkilerin kolayca anlaþýlýr hale getirilmesi için canlandýrma, maket, grafik, tablo, çizim, formül veya denklem gibi görsel unsurlarla basite indirgenerek ifade edilmesine modelleme denir.
+
+Fizik bilimi çoðunlukla soyut, karmaþýk, görülemeyecek kadar küçük ya da Dünyadan çok uzaktaki olgu ve olaylarý açýklamakla uðraþan bir bilim dalý olduðundan modelleme çok sýk kullanýlýr. Fizikçiler evreni, güneþ sistemini, ýþýðý, atomu, atomu oluþturan parçacýklarý açýklamak amacýyla model oluþtururlar.
+
+Bir mýknatýsýn çevresindeki manyetik alan, bir yükün çevresindeki elektrik alan veya üzerinden akým geçen telin manyetik alaný kuvvet çizgileri modeliyle gösterilir. Kullandýðýmýz grafik ve tablolar, formüller de modeldir.
+
+Fizikte kullanýlan modellemeler üçe ayrýlýr;
+
+Bilgisayarlý modelleme
+Fiziksel modelleme
+Düþünsel modelleme
+
+
+
+BAÐIMLI, BAÐIMSIZ VE KONTROLLÜ DEÐÝÞKEN
+
+Bir deneyde yapýlan deðiþikliklerden nasýl etkilendiði incelenen deðiþkene baðýmlý deðiþken denir.
+
+Sonuca etkisi incelenen ve deney esnasýnda deneyi yapan kiþi tarafýndan deðiþtirilebilen deðiþkene baðýmsýz deðiþken denir.
+
+Örnek: bir deneyde sürtünmesiz yatay düzlemde kuvvet düzenli olarak artýrýlýp cismin kazandýðý ivme ölçülüyor.
+
+Deneyde kütle sabit tutulmuþtur. Kütle kontrol deðiþkenidir.
+
+Deneyde F deðiþtirilerek kuvvetin etkisi incelenmiþtir. Kuvvet baðýmsýz deðiþkendir.
+
+Deneyde, kuvvete baðlý olarak deðiþiklikten nasýl etkilendiði incelenen deðiþken ivmedir. Ývme baðýmlý deðiþkenidir.
+
+ 
+
+
+NEDEN FÝZÝK ÖÐRENMELÝYÝZ?
+
+Doða olaylarýný anlayabilmemiz ve öngörebilmemiz o olaylarýn özünde düzenli olduklarýný bilmemizi gerektirir. Evrendeki olaylarýn sebep –sonuç iliþkileriyle birbirine baðlanabilmesi fizikçilerin araþtýrmalarýndaki en temel hareket noktasýdýr.  Bu sayede fizikçiler doðadaki birçok düzenliliði keþfetmiþlerdir.
+
+
+
+FÝZÝÐÝN TARÝHSEL GELÝÞÝMÝ:
+
+M.Ö.
+
+TALES (580): Amber etkisi ile elektriksel çekim.
+
+ARÝSTO (370): Doðal Hareket Ve Zorlanmýþ Hareket.
+
+ARÞÝMET (240): Sývýlarýn kaldýrma kuvveti.
+
+PTOLEMY (130): Dünya merkezli evren.
+
+M.S.
+
+ÝBN-Ý HEYSEM (1010): Optik.
+
+WÝLLÝAM GÝLBERT ( 1540): Mýknatýslar ve yerkürenin manyetik alaný.
+
+KOPERNÝK (1543): Güneþ merkezli evren.
+
+GALÝLEO (1609): Teleskobun keþfi.
+
+KEPLER (1619): Gezegenlerin hareket yasasý.
+
+NEWTON (1687): Hareket yasalarý.
+
+MAXWELL (1864): Elektromanyetik teori.
+
+HERTZ (1887): Elektromanyetik dalgalar.
+
+EÝNSTEÝN (1915): Görelilik teorisi.
+
+SCHRÖNDÝNGER (1926): Kuantum mekaniði.
+
+CERN (2013): Higgs Bozonu
+
+ 
+
+
+
+
+      FÝZÝKTE ÖLÇME OLAYINDA KULLANILAN CÝHAZLAR VE NE ÝÞE YARADIKLARI:
+
+Termometre: Bir cismin sýcaklýðýný ölçmeye yarayan alete denir.
+
+Dinamometre: Kuvvetin þiddetini ve cismin aðýrlýðýný ölçmeye yarayan alete dinamometre denir.
+
+Kalorimetre: Bir nicelik olarak ýsýyý ölçen alete denir.
+
+Manometre: Gaz veya sývý akýþkanlarýnýn basýncýný U borusu yardýmý ile ile ölçen alete denir.
+
+Altimetre: Deniz seviyesine göre bir yerin yüksekliðini ölçen alete denir.
+
+Batimetre: Deniz veya göl derinliðini ölçen alete denir.
+
+Galvanometre: Elektrik akýmýndaki deðiþimin manyetik alan oluþturmasý prensibiyle çalýþan alete denir.
+
+Fotometre: Iþýk þiddetini ölçmek için kullanýlan alete denir.

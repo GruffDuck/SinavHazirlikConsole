@@ -1,0 +1,58 @@
+Oran ve Orantý
+
+
+*Oran ve Orantýnýn tanýmlarý
+*Ýçler dýþlar çarpýmý
+*Oran ve orantý kurallarý
+*Ters orantý, doðru orantý ve bileþik orantý
+*Aritmetik ve geometrik ortalama
+
+
+ORAN: 
+En az biri sýfýrdan farklý, ayný birimden iki çokluðun bölümüne (karþýlaþtýrýlmasýna) oran denir. a nýn b ye oraný a / b þeklinde gösterilir.
+
+Örneðin;
+
+Elif 30, Melike 12 yaþýnda ise Melike’nin yaþýnýn Elif’in yaþýna oraný: 12 / 30 = 2 / 5 dir.
+Tuðçe’nin aðýrlýðý 40 kg, Ebru’nun aðýrlýðý 60 kg ise Tuðçe’nin aðýrlýðýnýn, Ebru’nun aðýrlýðýna oraný: 40 kg / 60 kg = 2 / 3 tür.
+5 kg un ile 2 kg yað karýþtýrýldýðýnda un / yað 5 / 2 oraný olup, elde edilen 7 kg lýk karýþýmýn yað oraný: yað (kg) / Karýþým (Kg) = 2 / 7 dir.
+
+ORANTI:
+Ýki veya daha fazla oranýn eþitliðine orantý denir.
+
+ORANTININ ÖZELLÝKLERÝ
+
+a/b = c/b = k orantýsýnda 
+
+i) b.c = a.d (içler çarpýmý dýþlar çarpýmýna eþittir.)
+
+ii) a/c = b/d (Ýçler yer deðiþtirebilir)
+
+iii) d/b = c/a (Dýþlar yer deðiþtirebilir)
+
+
+
+Orantý Çeþitleri
+
+Doðru Orantý:
+Ýki çokluktan biri artarken diðeri de ayný oranda artýyorsa veya biri azalýrken
+diðeri de ayný oranda azalýyorsa bu iki çokluk doðru orantýlýdýr veya kýsaca orantýlýdýr denir.
+
+
+Ters Orantý: 
+Ýki çokluktan biri artarken diðeri de ayný oranda azalýyorsa ya da 
+biri azalýrken diðeri de ayný oranda artýyorsa bu iki çokluk ters orantýlýdýr denir.
+
+
+
+Bileþik Orantý: 
+En az iki doðru veya ters orantýdan oluþan orantýlardýr.
+
+y sayýsý; x ile doðru, z ile ters orantýlý ise y.z/x = k dýr.
+Bileþik orantý problemlerinde kapasite, zaman, iþçi sayýsý gibi deðiþkenler yapýlan iþ ile doðru orantýlý olduðundan yapýlan iþin diðer deðiþkenlerin çarpýmýna oraný sabittir.
+
+
+
+
+
+

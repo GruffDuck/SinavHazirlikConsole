@@ -1,0 +1,31 @@
+     Atom ve Yapýsý
+Elementin özelliðini taþýyan en küçük parçasýna atom denir.
+
+   Atom Modelleri
+
+Dalton
+-Bütün maddeler atomlardan yapýlmýþtýr.
+-Birçok deðiþik atom vardýr. Fakat bir elementin atomlarý aynýdýr ve diðer elementlerin atomlarýndan her yönüyle farklýdýr.
+-Atom parçalanamaz.
+-Atomlar birleþerek molekülleri oluþturur, bileþiðin molekülleri birbirinin aynýsýdýr.
+
+ Rutherford
+-Yaptýðý deneyde ince altýn levha üzerine gönderilen,  yüklü olan  taneciklerinin küçük bir kýsmýnýn geri yansýdýðýný, ýþýnlarýn çoðunun levhanýn diðer tarafýna geçtiðini tesbit etmiþ ve þu sonuçlara varmýþtýr. 
+-Atomda büyük boþluklar vardýr.
+-Gönderilen ýþýnlarýn çok azýnýn geriye yansýmasýndan, atomdaki artý yüklerin yoðun olarak küçük bir hacimde toplanmýþ olduðu sonucunu çýkarmýþtýr.
+-Her atomun çekirdeðindeki artý yük sayýsý farklýdýr.
+
+
+ Bohr
+-Atomda bulunan her elektron çekirdekten belirli uzaklýkta bulunabilir ve her uzaklýðýn bir potansiyel enerjisi vardýr.
+
+-Atomlar kararlý halde iken ýþýn yayýnlamazlar.
+-Yüksek enerji seviyesindeki bir elektron (uyarýlmýþ elektron), düþük enerji seviyesine inerken ýsý ve ýþýk verir. 
+-Elektron çekirdek atrafýnda dairesel yörüngelerde hareket ederler.
+
+
+
+  Modern Atom Teorisi
+-Elektron dalga özelliði göstermektedir.
+-Atomdaki elektronun ayný anda yeri ve hýzý bilinemez.
+-Elektronlarýn bulunma ihtimalinin fazla olduðu küre katmanlarý vardýr ve bu katmanlara orbital adý verilmiþtir.

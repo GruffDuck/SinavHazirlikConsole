@@ -1,0 +1,126 @@
+SORU 1.
+Periyodik cetvelin 2.periyodunda ve 1A grubunda bulunan X elementinin izotoplarýndan birinin kütle numarasý 6 dýr.
+
+X elementinin bu izotop atomu aþaðdailerden hangisiyle bombadýman edildiðinde,yalnýzca bir trityum atomu ve helyum çekirdeði 
+oluþturur?
+
+A)Nötron
+B)Proton
+C)Döteryum
+D)Beta
+E)Pozitron
+
+
+SORU 2.
+
+Nötron sayýsý 48 olan bir element atomunun temel haldeki elektron diziliþi 5s ile bitmektedir.
+
+Buna göre aþagdakilerden hangisi yanlýþtýr?
+
+A)Element atomunun kütle numarasý 85 dir.
+B)Element,periyodik cetvelin 5A grubundadýr
+C)Element atomunun p oritalinin hepsi tam doludur.
+D)Element atomunun bileþiklerinde yükseltgenme basamagý +1 dir.
+E)Element atomunun s orbitalinde toplam 9 elektron vardýr.
+
+
+SORU 3.
+
+Periyodik cetvelin 1A ve 2A grubu elementleriyle ilgili,
+
+1.2A grubunda olanlar,elektron diziliþindeki en son s orbitalinden elektron vererek bileþik oluþtururlar.
+2.1A grubunda,grupta yukardan aþaðýya inildikçe atom yarýçaplarý küçülür.
+3.Her iki gruptaki elementlerin çoðunluðu iyonik bileþik oluþturur.
+
+yergýlarýndan hangileri doðrudur?
+
+A)Yalnýz 1  B) 1ve 2  C)1 ve 3  D)2ve 3  E)1,2ve 3
+
+
+
+SORU 4.
+
+Periyodik cetvelde Ca elementi 2A grubunda,CI elementi ise 7A grubunda bulunmaktadýr.
+
+Bu elementler ve birbirleriyle oluþturduðu bileþikle ilgili aþaðdakilerden hangisi yanlþtýr?
+
+A)Ca metalik,CI ametalik özellik gösterir.
+B.)Birbirleriyle CaCI2 bileþiðini oluþtururlar.
+C)Birbirleriyle oluþturduklarý bileþik moleküler yapýdadýr.
+D)Ca element atomu 2 elektron verdiðinde elektron dizilimi kendisine en yakýn soygaz elektron dizilimi gibi olur.
+E)CI elementi elektron alma,Ca elementi ise elektron verme eðilimindedir.
+
+
+SORU 5.
+
+Soygazlarla ilgili,
+
+1.hepsi halojenlerle bileþik oluþtururlar.
+2.atomlarýn elektron dizilimindeki son orbitalleri tam doludur.
+3.periyodik çizelgenin 8A grubu elementleridir.
+
+yargýlarýndan hangileri dogrudur?
+
+A)Yalnýz 1  B)Yalnýz 2  C)1 ve 2  D)2ve 3  E)1,2ve 3
+
+
+
+SORU 6.
+
+Kovalent baðlarla ilgili,
+
+1.Yalnýzca metal atomlarý arasýnda oluþur.
+2.tümü apolar özelliktedir.
+3.elektronlarýn ortaklaþa kullanýlmalarý sonucu oluþur.
+
+yargýlarýndan hangileri doðrudur?
+
+
+A)Yalnýz 3  B)1 ve 2  C)1 ve 3  D)2ve 3  E)1,2ve 3
+
+
+
+SORU 7.
+
+Metallerle ilgili,
+
+1.Atomlarý arasýnda metalik bað vardýr.
+2.Metalik parlaklýk gösterirler.
+3.Tel ve levha haline getirebilirler.
+
+yargýlarýndan hangileri doðrudur?
+
+A)Yalnýz 1  B)Yalnýz 3  C)1 ve 2  D)2ve 3  E)1,2ve 3
+
+
+SORU 8.
+Bir elementle ilgili aþaðdaki bilgilerden hangisine ulaþabilmek için,o elementin temel haldeki atomlarýnýn elektron
+daðýlýmýnýn bilinmesi yeterli deðildir?
+
+A)Kütle numarasý   B)Atom numarasý  C)Deðerlik elektron sayýsý  D)Grup numarasý  E)Periyot numarasý
+
+
+SORU 9. 
+
+Aþaðdakilerden hangisi atom numarasý 1A grubu elementlerinin atým numaralarýndan iki
+fazla olan hiçbir element için doðru deðildir?
+
+A)Elektron daðýlýmýnýn d ile bitmesi
+B)Elektron daðýlýmýnýn p ile bitmesi
+C)Elektron daðýlýmýnýn p3 ile bitmesi
+D)3A grubunda olmasý 
+E)Geçiþ elementi olmasý
+
+
+SORU 10.
+
+-X ve Y elementlerinin ikisi de katý halde elektriði iletmektedir.
+-Bütün bileþiklerinde:X yalnýz +2,Y ise +2,+7 ve bu deðerler arasýndaki bazý pozitif degerlikleri almaktadýr.
+
+Bu bilgilere göre,X ve Y elementleri ile ilgili aþagdaki yargýlardan hangisi kesinlikle doðrudur?
+
+A) X ve Ynin ikisi de metaldir.
+B)X metal,Y ametaldir.
+C) X ve Y ayný gruptadýr.
+D)X ve Y ayný bloktadýr.
+E)X ve Y ayný periyottadýr.

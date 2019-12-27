@@ -1,0 +1,153 @@
+      Periyodik Sistem Konu Anlatýmý
+
+ Periyodik cetvel, benzer fiziksel ve kimyasal özelliklere sahip ele­mentleri, gruplar içinde bir araya getirmek amacýyla hazýrlanmýþtýr. Elementlerin fiziksel ve kimyasal özellikleri elektron konfigürasyonlarý ile ilgili olduðundan elementler artan atom numaralarýna göre sýralanmýþlardýr.
+
+
+PERÝYODÝK CETVELLE ÝLGÝLÝ BAZI KAVRAMLAR PERÝYOT
+
+Periyodik cetvelde yatay sýralara periyot denir. 7 tane periyot vardýr. Periyotlar, elementlerin artan atom numaralarýna göre sýralanarak oluþturulmuþtur.
+
+•    Ayný periyottaki elementlerin, en dýþ enerji düzeyinde farklý sayýda elektron bulunduðundan, bu elementlerin fiziksel ve kimyasal özellikleri birbirinden farklýdýr.
+
+•    Ayný periyotta bulunan elementler için,
+
+Periyot numarasý = En yüksek baþkuant sayýsý = Yörünge sayýsý= Temel enerji düzeyi sayýsý eþitliði yazýlabilir.
+
+
+
+
+   GRUP
+
+Düþey sütunlara (kolonlara) grup denir. Periyodik tabloda Amerikan tanýmýna göre A ve B olmak üzere iki tür grup vardýr. Bu gruplarýn sayýsý 8 tane A , 8 tane B þeklindedir. Bu gruplardan 8B grubu üç kolona ayrýlmýþtýr.
+
+•    Ayný grup elementleri benzer kimyasal ve fiziksel özellik gösterirler.
+
+•    A grubu elementlerine baþ grup (ana grup) elementleri, B grubu elementlerine geçiþ (yan grup) elementleri denir.
+
+B grubu elementlerinin (geçiþ elementleri) 4. periyottan baþladýðýna dikkat ediniz.
+
+
+
+
+    BLOK TÜRLERÝ
+
+Elementler elektron daðýlýmlarýna göre dört blok altýnda toplanabilir. s bloku
+
+Temel hal elektron diziliþinde en yüksek enerjili (en son) elektronlarý s orbitalinde bulunan elementleri kapsar. Bunlar IA ve IIA grubu elementleridir. Hidrojen ve helyum hariç s bloku elementlerinin tümü metaldir.
+
+1)p bloku
+
+Temel hal elektron diziliþinde en yüksek enerjili elektronlarý p orbitallerinde bulunan elementleri kapsar. p bloku elementleri metal, yarý metal ya da ametal olabilir.
+
+3A, 4A, 5A, 6A, 7 A, 8A (He hariç) p bloku elementleridir.
+
+Oksijen bir p bloku elementidir. Oksijenin en yüksek enerjili elektronlarý p orbitallerindedir.
+
+2)d bloku
+
+Temel hal elektron diziliþinde en yüksek enerjili elektronlarý d orbitallerinde bulunan elementleri kapsar. d bloku elementlerinin tümü metaldir.
+
+Tabloda s ve p bloklarý arasýnda kalan bölgedir.
+
+3B, 4B, 5B, 6B, 7B, 8B, 1B ve 2B elementleri d bloku elementleridir.
+
+3)f bloku
+
+Temel hal elektron diziliþinde en yüksek enerjili elektronlarý f orbitallerinde bulunan elementleri kapsar.
+
+•    f bloku elementlerinin tümü 3B grubunda olup iki sýra halinde tablonun altýnda gösterilmiþtir.
+
+•    f bloku elementlerine iç geçiþ elementleri de denir.
+
+•    f bloku elementlerinin tümü metaldir.
+
+•    f bloku elementleri tablonun 6. ve 7. periyotlarýnda yer alýr.
+
+
+
+
+  Bazý gruplarýn özel isimleri
+
+Periyodik çizelgede bazý gruplarýn özel isimleri vardýr. 1 A : Alkali metaller grubu
+
+2A : Toprak alkali metaller grubu
+
+3A : Toprak metaller grubu
+
+7A : Halojenler grubu
+
+8A : Soygazlar grubu
+
+B grubu: Geçiþ elementleri (d ve f bloku elementleri)
+
+
+   PERÝYOT VE GRUP BULMA
+
+Daha önceki bölümde elementlerin periyodik tablodaki yerlerinin bulunmasý anlatýlmýþtý. Ek bilgi olarak elementlerin periyodik tablodaki yerleri soygazlarýn atom numaralarý bilinerek de bulunabilir.
+
+Soygazlar ve soygazlarýn atom numaralarý ile bulunduklarý periyotlar, aþaðýdaki tabloda verilmiþtir.
+
+
+
+
+  PERÝYOTLARDAKÝ ELEMENTLERÝN SAYISI
+
+7. periyot henüz tamamlanamadýðýndan, 1. periyot da bir ametal olan hidrojenle baþladýðýndan, bu iki periyot dýþýndaki tüm periyotlar, bir alkali metalle baþlar, soygazla biter.
+
+1. periyot: En kýsa periyottur. 1H (hidrojen) ve 2He (helyum) olmak üzere iki element içerir. Bunlarýn ikisi de s-bloku elementleridir.
+
+2. periyot: Kýsa bir periyottur. 8 tane element içerir. Bunlarýn ikisi s, altýsý p bloku elementleridir.
+
+3. periyot: Kýsa bir periyottur. 8 tane element içerir. Bunlarýn ikisi s, altýsý p bloku elementleridir.
+
+4. periyot: Orta uzunlukta bir periyottur. Bu periyottan itibaren geçiþ elementleri baþlar ve sayýlarý 10 tanedir. Periyot 2 tanesi s bloku, 10 tanesi d bloku ve 6 tanesi p bloku olmak üzere toplam 18 tane element içerir.
+
+5. periyot: Orta uzunlukta bir periyottur. 2 tanesi s-bloku, 10 tanesi d-bloku ve 6 tanesi p-bloku olmak üzere bu periyotta da toplam 18 tane element vardýr.
+
+6. periyot: Uzun bir periyottur. Bu periyotta f-alt kabuklarýnýn dolmasýyla birlikte iç geçiþ elementleri de vardýr. 6. periyotta 2 tanesi s­bloku, 10 tanesi d-bloku, 6 tanesi p-bloku ve 57La ile 72Hf arasýnda yer alan ve periyodik tablonun en alt bölümünün ilk sýrasýnda gösterilen 14 tanesi f-bloku olmak üzere toplam 32 element vardýr.
+
+7. periyot: Uzun bir periyottur. Bu periyotta p bloku elementi olmamakla birlikte, d bloku elementleri de tamamlanamamýþtýr. Element kapasitesi 32 dir ancak son bulunan elementle birlikte toplam 23 tanedir.
+
+
+
+
+
+BAZI ÖZELLÝKLERÝN PERÝYOT VE GRUP ÝÇÝNDEKÝ DEGÝÞÝMÝ
+
+  ATOM YARIÇAPI VE HACMÝ
+
+Ayný grupta yukarýdan aþaðýya doðru inildiðinde atom yarýçapý ve hacmi artar.
+
+Bir grup içinde yukarýdan aþaðýya doðru inildikçe proton sayýsý, buna baðlý olarak çekirdeðin çekim kuvveti artar. Ancak grup içinde aþaðý doðru yörünge sayýsý arttýðýndan en son temel enerji düzeyindeki elektron da çekirdekten uzaklaþýr. Çekirdekle son yörüngedeki elektron arasýna yeni tabakalarýn girmesi ve bu tabakalarda bulunan elektronlarýn perdeleme etkisi çekirdeðin çekim kuvvetini azaltýr. Bu etki daha önem­li olduðundan atom yarýçapý ve hacmi artar.
+
+Ayný periyotta soldan saða doðru atom yarýçapý ve hacmi azalýr. Bunun nedeni periyot içinde soldan saða doðru gidildikçe;
+
+•    En dýþtaki elektronun bulunduðu temel enerji düzeyinin hep ayný kalmasý
+
+•    Ayný orbitalde bulunan elektronlarýn perdeleme etkisinin olmayýþý ve proton sayýsý arttýkça çekirdeðin çekim kuvvetinin artmasý þeklinde açýklanabilir.
+
+
+
+
+
+ÝYONLAÞMA ENERJÝSÝ
+
+Ayný periyotta soldan saða doðru iyonlaþma enerjisi genellikle artar.
+
+Çünkü periyot boyunca,
+
+•    Çekirdeðin çekim kuvveti artar.
+
+•    Atom yarýçapý azalýr.
+
+•    Elektron koparmak zorlaþýr.
+
+Küresel simetriden dolayý 2A nýn iyonlaþma enerjisinin 3A nýnkinden, 5A nýn iyonlaþma enerjisinin 6A nýnkinden büyük olmasý daha önce anlatýlmýþtý.
+
+Ayný grupta yukarýdan aþaðýya doðru inildikçe iyonlaþma enerjisi azalýr.
+
+Çünkü grup içinde yukarýdan aþaðýya;
+
+•    Atom yarýçapý artar.
+
+•    En son elektron ile çekirdek arasýndaki yörüngelerin sayýsý, buna baðlý olarak perdeleme etkisi artar, çekirdeðin çekim kuvveti azalýr ve elektron koparmak kolaylaþýr.

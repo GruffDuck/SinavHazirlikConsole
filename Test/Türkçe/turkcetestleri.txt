@@ -1,0 +1,5 @@
+1)Anlatým Bozukluðu  Testi
+2)Cümlenin Ögeleri  Testi
+3)Sýfatlar Testi
+4)Adlar  Testi
+5)Sözcükte Anlam Testi
